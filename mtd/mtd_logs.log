@@ -1,0 +1,126 @@
+[32m2022-06-11 10:57:28.839[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5440 with id 82c929b75b94426292e9ae23b5c5d23df8f60071d3f53c4357e844cdbec21478[0m
+[32m2022-06-11 10:57:28.840[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 10:57:39.181[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 82c929b75b94426292e9ae23b5c5d23df8f60071d3f53c4357e844cdbec21478[0m
+[32m2022-06-11 10:57:39.681[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5752 with id af74bc1cb65b694139ccbddf8396522965b9eed19a8bd845d1cbdcadc385feb5[0m
+[32m2022-06-11 10:57:39.681[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 10:57:50.005[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container af74bc1cb65b694139ccbddf8396522965b9eed19a8bd845d1cbdcadc385feb5[0m
+[32m2022-06-11 10:57:50.425[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5028 with id 508c86bf346506ab293d7fb387e77ee505e8d715242661ffa99cef4f6a7cc4e4[0m
+[32m2022-06-11 10:57:50.426[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 10:58:00.772[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 508c86bf346506ab293d7fb387e77ee505e8d715242661ffa99cef4f6a7cc4e4[0m
+[32m2022-06-11 10:58:01.246[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5772 with id 8a726132acfdeb0eecc32f1a3c48153101f8f88691bd7e6e223654bad01d1ce0[0m
+[32m2022-06-11 10:58:01.246[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 10:58:11.530[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 8a726132acfdeb0eecc32f1a3c48153101f8f88691bd7e6e223654bad01d1ce0[0m
+[32m2022-06-11 10:58:11.962[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5842 with id 8abf1a525e21b4a7c702902965b299aa2a2af1285e8b464832391570013b6e8e[0m
+[32m2022-06-11 10:58:11.962[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 10:58:22.256[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 8abf1a525e21b4a7c702902965b299aa2a2af1285e8b464832391570013b6e8e[0m
+[32m2022-06-11 10:58:22.688[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5640 with id bca79dce488e427a00871efa32f4d8bb48a08ac9d78316459b5dd884039b1b09[0m
+[32m2022-06-11 10:58:22.688[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 10:58:33.041[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container bca79dce488e427a00871efa32f4d8bb48a08ac9d78316459b5dd884039b1b09[0m
+[32m2022-06-11 10:58:33.541[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5876 with id 4732a533cd176ad6b619987bcd5e567e5ed52c6010108c6861a38844f1605bf5[0m
+[32m2022-06-11 10:58:33.541[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 10:58:43.828[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 4732a533cd176ad6b619987bcd5e567e5ed52c6010108c6861a38844f1605bf5[0m
+[32m2022-06-11 10:58:44.265[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5560 with id 06bb6d3cd4cae80b2e27128742a0ca9d0c16b8d582d9674e7e6032285709d61a[0m
+[32m2022-06-11 10:58:44.266[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 10:58:54.566[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 06bb6d3cd4cae80b2e27128742a0ca9d0c16b8d582d9674e7e6032285709d61a[0m
+[32m2022-06-11 10:58:55.017[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5691 with id 9a66a635b0777a22f2d54c127457f4013b93c23afff0e6575ba2f2ab9613e447[0m
+[32m2022-06-11 10:58:55.017[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 10:59:05.326[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 9a66a635b0777a22f2d54c127457f4013b93c23afff0e6575ba2f2ab9613e447[0m
+[32m2022-06-11 10:59:05.752[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5264 with id fa70d504a12e1436f9b2c60bd8cdc3a1b8e52de7ee8786e0ca622157080b93b6[0m
+[32m2022-06-11 10:59:05.753[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 10:59:16.047[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container fa70d504a12e1436f9b2c60bd8cdc3a1b8e52de7ee8786e0ca622157080b93b6[0m
+[32m2022-06-11 10:59:16.472[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5358 with id 1e9e1866e08191553ab3ec9389d4975871da62d554f92b4c0ebf43da69b3c87b[0m
+[32m2022-06-11 10:59:16.472[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 10:59:26.759[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 1e9e1866e08191553ab3ec9389d4975871da62d554f92b4c0ebf43da69b3c87b[0m
+[32m2022-06-11 10:59:27.224[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5972 with id 769ae221b917c16f08189984486321655c1f2a8ee5c8bb0411c8537ead0bc2de[0m
+[32m2022-06-11 10:59:27.225[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 10:59:33.584[0m | [1mINFO    [0m | [36m__main__[0m:[36msignal_handler[0m:[36m29[0m - [1mCleaning containers...[0m
+[32m2022-06-11 11:00:02.700[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5664 with id ccb216e6c2a0efd569e01ddadf8af4249085c183cee3396f006cde9b962aca87[0m
+[32m2022-06-11 11:00:02.700[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:03:32.648[0m | [1mINFO    [0m | [36m__main__[0m:[36msignal_handler[0m:[36m29[0m - [1mCleaning containers...[0m
+[32m2022-06-11 11:03:41.330[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5038 with id ba65e7bb6289fb7b07ffede39435b7ab986ac88486a63cb40a22c966ddb21228[0m
+[32m2022-06-11 11:03:41.331[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:03:47.739[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container ba65e7bb6289fb7b07ffede39435b7ab986ac88486a63cb40a22c966ddb21228[0m
+[32m2022-06-11 11:03:48.306[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5326 with id a809890c979d663a94a84346bd90ebeadf0fdf36fa587f2446d80b926d3c97f4[0m
+[32m2022-06-11 11:03:48.307[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:03:54.757[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container a809890c979d663a94a84346bd90ebeadf0fdf36fa587f2446d80b926d3c97f4[0m
+[32m2022-06-11 11:03:55.264[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5899 with id b57fd2b06489c41fbacb2511467ea9d20fdb144ce69290e15ef5a310d8fff8ac[0m
+[32m2022-06-11 11:03:55.264[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:04:01.723[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container b57fd2b06489c41fbacb2511467ea9d20fdb144ce69290e15ef5a310d8fff8ac[0m
+[32m2022-06-11 11:04:02.323[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5763 with id 489cc23b2ee3f4bc1a6ddd9245ab8d120643ef1e6b7f9091984d3e5e4ca24409[0m
+[32m2022-06-11 11:04:02.324[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:04:08.782[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 489cc23b2ee3f4bc1a6ddd9245ab8d120643ef1e6b7f9091984d3e5e4ca24409[0m
+[32m2022-06-11 11:04:09.402[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5704 with id ab25acf389e5a62c4a4cad0d875286b92a8ca439241eb711b683df99a1f81531[0m
+[32m2022-06-11 11:04:09.406[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:04:15.890[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container ab25acf389e5a62c4a4cad0d875286b92a8ca439241eb711b683df99a1f81531[0m
+[32m2022-06-11 11:04:16.474[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5168 with id 6e85e4119c0267e004dc5cc32fdbba58a23e07f49ae579943bd0ad2dc85a4c60[0m
+[32m2022-06-11 11:04:16.475[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:04:22.933[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 6e85e4119c0267e004dc5cc32fdbba58a23e07f49ae579943bd0ad2dc85a4c60[0m
+[32m2022-06-11 11:04:23.509[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5529 with id bd1a144fd5264ba09cb19ab4a6097d677250208657a779e487fcb07dd85c663c[0m
+[32m2022-06-11 11:04:23.510[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:04:29.984[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container bd1a144fd5264ba09cb19ab4a6097d677250208657a779e487fcb07dd85c663c[0m
+[32m2022-06-11 11:04:30.385[0m | [1mINFO    [0m | [36m__main__[0m:[36msignal_handler[0m:[36m29[0m - [1mCleaning containers...[0m
+[32m2022-06-11 11:04:30.419[0m | [31m[1mERROR   [0m | [36m__main__[0m:[36msignal_handler[0m:[36m30[0m - [31m[1mAn error has been caught in function 'signal_handler', process 'MainProcess' (151507), thread 'MainThread' (140361459349312):[0m
+[33m[1mTraceback (most recent call last):[0m
+
+  File "[32m/home/kali/Desktop/spzc/mtd/[0m[32m[1mmtd.py[0m", line [33m37[0m, in [35m<module>[0m
+    [1mmain[0m[1m([0m[1m)[0m
+    [36m└ [0m[36m[1m<function main at 0x7fa872b47d90>[0m
+
+  File "[32m/home/kali/Desktop/spzc/mtd/[0m[32m[1mmtd.py[0m", line [33m19[0m, in [35mmain[0m
+    [1mcontainer[0m [35m[1m=[0m [1mcreate[0m[1m([0m[1mimage_name[0m[35m[1m=[0m[1mIMAGE_NAME[0m[1m,[0m [1mexposed_port[0m[35m[1m=[0m[1mexposed_port[0m[1m)[0m
+    [36m            │                 │                        └ [0m[36m[1m5069[0m
+    [36m            │                 └ [0m[36m[1m'webserver'[0m
+    [36m            └ [0m[36m[1m<function create at 0x7fa872137760>[0m
+
+  File "[32m/home/kali/Desktop/spzc/mtd/src/[0m[32m[1mcontainer.py[0m", line [33m9[0m, in [35mcreate[0m
+    [1mcontainer_id[0m [35m[1m=[0m [1mdocker[0m[35m[1m.[0m[1mrun[0m[1m([0m
+    [36m               │      └ [0m[36m[1m<bound method ContainerCLI.run of <python_on_whales.components.container.cli_wrapper.ContainerCLI object at 0x7fa87138ce80>>[0m
+    [36m               └ [0m[36m[1m<python_on_whales.docker_client.DockerClient object at 0x7fa87212a230>[0m
+
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/python_on_whales/components/container/cli_wrapper.py", line 1550, in run
+    return Container(self.client_config, run(full_cmd))
+           │         │    │              │   └ [PosixPath('/usr/bin/docker'), 'container', 'run', '--detach', '-p', '5069:80', '--rm', 'webserver']
+           │         │    │              └ <function run at 0x7fa8714db6d0>
+           │         │    └ ClientConfig(config=None, context=None, debug=None, host=None, log_level=None, tls=None, tlscacert=None, tlscert=None, tlskey...
+           │         └ <python_on_whales.components.container.cli_wrapper.ContainerCLI object at 0x7fa87138ce80>
+           └ <class 'python_on_whales.components.container.cli_wrapper.Container'>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/python_on_whales/utils.py", line 132, in run
+    completed_process = subprocess.run(
+                        │          └ <function run at 0x7fa872685120>
+                        └ <module 'subprocess' from '/usr/lib/python3.10/subprocess.py'>
+  File "/usr/lib/python3.10/subprocess.py", line 503, in run
+    stdout, stderr = process.communicate(input, timeout=timeout)
+                     │       │           │              └ None
+                     │       │           └ None
+                     │       └ <function Popen.communicate at 0x7fa872685bd0>
+                     └ <Popen: returncode: None args: ['/usr/bin/docker', 'container', 'run', '--de...>
+  File "/usr/lib/python3.10/subprocess.py", line 1149, in communicate
+    stdout, stderr = self._communicate(input, endtime, timeout)
+                     │    │            │      │        └ None
+                     │    │            │      └ None
+                     │    │            └ None
+                     │    └ <function Popen._communicate at 0x7fa872686320>
+                     └ <Popen: returncode: None args: ['/usr/bin/docker', 'container', 'run', '--de...>
+  File "/usr/lib/python3.10/subprocess.py", line 2000, in _communicate
+    ready = selector.select(timeout)
+            │        │      └ None
+            │        └ <function _PollLikeSelector.select at 0x7fa872872320>
+            └ <selectors.PollSelector object at 0x7fa87138f820>
+  File "/usr/lib/python3.10/selectors.py", line 416, in select
+    fd_event_list = self._selector.poll(timeout)
+                    │    │         │    └ None
+                    │    │         └ <method 'poll' of 'select.poll' objects>
+                    │    └ <select.poll object at 0x7fa8711c8150>
+                    └ <selectors.PollSelector object at 0x7fa87138f820>
+
+> File "[32m/home/kali/Desktop/spzc/mtd/[0m[32m[1mmtd.py[0m", line [33m30[0m, in [35msignal_handler[0m
+    [1mdelete_active_containers[0m[1m([0m[1m)[0m
+    [36m└ [0m[36m[1m<function delete_active_containers at 0x7fa87139cf70>[0m
+
+  File "[32m/home/kali/Desktop/spzc/mtd/src/[0m[32m[1mcontainer.py[0m", line [33m23[0m, in [35mdelete_active_containers[0m
+    [1mdocker[0m[35m[1m.[0m[1mstop[0m[1m([0m[35m[1m*[0m[1mactive_containers[0m[1m)[0m
+    [36m│      │     └ [0m[36m[1m[][0m
+    [36m│      └ [0m[36m[1m<bound method ContainerCLI.stop of <python_on_whales.components.container.cli_wrapper.ContainerCLI object at 0x7fa87138ce80>>[0m
+    [36m└ [0m[36m[1m<python_on_whales.docker_client.DockerClient object at 0x7fa87212a230>[0m
+
+[31m[1mTypeError[0m:[1m ContainerCLI.stop() missing 1 required positional argument: 'containers'[0m

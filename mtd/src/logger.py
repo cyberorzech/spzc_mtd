@@ -3,9 +3,9 @@ from loguru import logger
 from datetime import date
 
 
-def initialize_logger():
+def initialize_logger(log_filename):
     try:
-        log_filename = "logs.log"
+        log_filename = log_filename
         if log_filename == "auto":
             today = date.today()
             log_filename = f"logs/{today.year}-{today.month}-{today.day}.log"

@@ -8,10 +8,10 @@ from src.logger import initialize_logger
 from src.container import *
 
 IMAGE_NAME = "webserver"
-SLEEP_INTERVAL = 10  # [s]
+SLEEP_INTERVAL = 6  # [s]
 PUBLISHED_PORTS_RANGE = [5000, 6000]
 CONFIG_PATH = "./exposed_container.json"
-
+LOG_FILENAME = "mtd_logs.log"
 
 def main():
     while True:
@@ -32,6 +32,6 @@ def signal_handler(sig, frame):
 
 
 if __name__ == "__main__":
-    initialize_logger()
+    initialize_logger(LOG_FILENAME)
     signal.signal(signal.SIGINT, signal_handler)
     main()
