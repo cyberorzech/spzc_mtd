@@ -1,10 +1,14 @@
+import docker
+
 from sys import exit, stdout, stderr
 from loguru import logger
 from datetime import date
 
 
 def main():
-    logger.success("Git")
+    client = docker.from_env()
+    container_id = client.containers.run("webserver", detach=True, auto_remove=True, ports={"80/tcp": 80})
+    logger.success(f"Docker started {container_id}")
 
 def initialize_logger():
     try:
