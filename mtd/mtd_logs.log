@@ -124,3 +124,786 @@
     [36m└ [0m[36m[1m<python_on_whales.docker_client.DockerClient object at 0x7fa87212a230>[0m
 
 [31m[1mTypeError[0m:[1m ContainerCLI.stop() missing 1 required positional argument: 'containers'[0m
+[32m2022-06-11 11:12:14.104[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5683 with id 6bc74d5ec4a54d61fc6ad876eb28e4717373a8483544a8b4f867e45a408308d2[0m
+[32m2022-06-11 11:12:14.104[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:12:20.450[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 6bc74d5ec4a54d61fc6ad876eb28e4717373a8483544a8b4f867e45a408308d2[0m
+[32m2022-06-11 11:12:21.008[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5238 with id 7974ab7e4d0b06c4ae600446ea9e42bb2697e7b0d26c3de4a377e42c5cd1f7a5[0m
+[32m2022-06-11 11:12:21.009[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:12:27.364[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7974ab7e4d0b06c4ae600446ea9e42bb2697e7b0d26c3de4a377e42c5cd1f7a5[0m
+[32m2022-06-11 11:12:28.001[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5863 with id 9d7e46a9064189c8481379c0d0ab574ccdce792ae5a753e4ff2a78602c02b11d[0m
+[32m2022-06-11 11:12:28.001[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:12:34.427[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 9d7e46a9064189c8481379c0d0ab574ccdce792ae5a753e4ff2a78602c02b11d[0m
+[32m2022-06-11 11:12:34.988[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5279 with id bf404dc2df6071a16224da923154b64260702bc682af043d769bc9a64b74090d[0m
+[32m2022-06-11 11:12:34.988[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:12:41.457[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container bf404dc2df6071a16224da923154b64260702bc682af043d769bc9a64b74090d[0m
+[32m2022-06-11 11:12:42.027[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5100 with id 148b02a679e615860cb5cb913d727277dce064c80e0f426143690023ec4d7830[0m
+[32m2022-06-11 11:12:42.029[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:12:48.341[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 148b02a679e615860cb5cb913d727277dce064c80e0f426143690023ec4d7830[0m
+[32m2022-06-11 11:12:48.746[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5242 with id c6f737e8f7995a43da23cea32a3648c7dd6c2f8bac298f5ff2bb8470a803ad8a[0m
+[32m2022-06-11 11:12:48.747[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:12:55.057[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container c6f737e8f7995a43da23cea32a3648c7dd6c2f8bac298f5ff2bb8470a803ad8a[0m
+[32m2022-06-11 11:12:55.551[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5376 with id f052e4e2b4f372bb111cc62d71fa9374f407a391373ac21c2822720643cedfc8[0m
+[32m2022-06-11 11:12:55.552[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:13:01.946[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container f052e4e2b4f372bb111cc62d71fa9374f407a391373ac21c2822720643cedfc8[0m
+[32m2022-06-11 11:13:02.600[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5774 with id 7020a7ba63ec045969e3b163626fa989a33c8519d09db1753c00fd5f57f0c62a[0m
+[32m2022-06-11 11:13:02.601[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:13:08.951[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7020a7ba63ec045969e3b163626fa989a33c8519d09db1753c00fd5f57f0c62a[0m
+[32m2022-06-11 11:13:09.815[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5608 with id 3e2cf958505c394784eae7fba9310cdaa339da48bddc58f34d08e1a0e1009099[0m
+[32m2022-06-11 11:13:09.815[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:13:16.152[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 3e2cf958505c394784eae7fba9310cdaa339da48bddc58f34d08e1a0e1009099[0m
+[32m2022-06-11 11:13:16.589[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5181 with id 6e83d4a769fb69034e99903f93c52e52f9e2b77f0586a4434506588006f315ac[0m
+[32m2022-06-11 11:13:16.589[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:13:22.896[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 6e83d4a769fb69034e99903f93c52e52f9e2b77f0586a4434506588006f315ac[0m
+[32m2022-06-11 11:13:23.291[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5037 with id 0f9a538b355c9aa10c40046ed8f8caf9a9d489290244971daca906b1c977d6db[0m
+[32m2022-06-11 11:13:23.292[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:13:29.604[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 0f9a538b355c9aa10c40046ed8f8caf9a9d489290244971daca906b1c977d6db[0m
+[32m2022-06-11 11:13:29.982[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5271 with id e25652be4b2b48525568703c7ab031670deb954580578a9a7c2a4da6170d87f4[0m
+[32m2022-06-11 11:13:29.982[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:13:36.335[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container e25652be4b2b48525568703c7ab031670deb954580578a9a7c2a4da6170d87f4[0m
+[32m2022-06-11 11:13:36.825[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5618 with id f451e3470b34ccbac8146dcbbee91a9119e7f6aed5e79039de3c672eeaee55fe[0m
+[32m2022-06-11 11:13:36.826[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:13:43.153[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container f451e3470b34ccbac8146dcbbee91a9119e7f6aed5e79039de3c672eeaee55fe[0m
+[32m2022-06-11 11:13:43.595[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5415 with id e9c7b6fd76b3cdcec55814d0b7e6c4f43368de4a811f6f3a7156c7e97e4db064[0m
+[32m2022-06-11 11:13:43.596[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:13:49.909[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container e9c7b6fd76b3cdcec55814d0b7e6c4f43368de4a811f6f3a7156c7e97e4db064[0m
+[32m2022-06-11 11:13:50.299[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5411 with id ac12d5f6613a6dfe253091420d7aade02ba86ce8bf274f33e57e02b08a1c16e5[0m
+[32m2022-06-11 11:13:50.299[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:13:56.879[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container ac12d5f6613a6dfe253091420d7aade02ba86ce8bf274f33e57e02b08a1c16e5[0m
+[32m2022-06-11 11:13:57.337[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5755 with id 1941e52be1a2c3339ba64a9d19ad285297ae826c28ff8526255d471b764ea611[0m
+[32m2022-06-11 11:13:57.337[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:14:03.654[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 1941e52be1a2c3339ba64a9d19ad285297ae826c28ff8526255d471b764ea611[0m
+[32m2022-06-11 11:14:04.061[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5974 with id c8ff2b7878f08978546b165c842dac593b2bbf5eb62cbc3de11e2b1dd6de8607[0m
+[32m2022-06-11 11:14:04.061[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:14:10.387[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container c8ff2b7878f08978546b165c842dac593b2bbf5eb62cbc3de11e2b1dd6de8607[0m
+[32m2022-06-11 11:14:10.811[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5388 with id 581b4f1cbe7a566b9a588906e61ed5fbba0969f50635a8a7f179d8742e496227[0m
+[32m2022-06-11 11:14:10.814[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:14:17.151[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 581b4f1cbe7a566b9a588906e61ed5fbba0969f50635a8a7f179d8742e496227[0m
+[32m2022-06-11 11:14:17.639[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5768 with id 91602230252f6a1c061fd05890e044aac5885b129cb48e538834674e937290ed[0m
+[32m2022-06-11 11:14:17.639[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:14:23.977[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 91602230252f6a1c061fd05890e044aac5885b129cb48e538834674e937290ed[0m
+[32m2022-06-11 11:14:24.636[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5499 with id 659dd0891e56fc131946db9334a309a69bcf16f08d67f6ae68fd6a5c80a7f3ec[0m
+[32m2022-06-11 11:14:24.636[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:14:30.932[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 659dd0891e56fc131946db9334a309a69bcf16f08d67f6ae68fd6a5c80a7f3ec[0m
+[32m2022-06-11 11:14:31.400[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5751 with id eb1124a2b13fe35f8f55a403c8806b8f1a644f5bd4e9128bc01a0e1254d2fa73[0m
+[32m2022-06-11 11:14:31.400[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:14:37.667[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container eb1124a2b13fe35f8f55a403c8806b8f1a644f5bd4e9128bc01a0e1254d2fa73[0m
+[32m2022-06-11 11:14:38.096[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5802 with id 292af77b525f61d5f31f8c5d3bf9d0944ac783254ee1d0fb3fb869e73e1ce3ae[0m
+[32m2022-06-11 11:14:38.097[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:14:44.363[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 292af77b525f61d5f31f8c5d3bf9d0944ac783254ee1d0fb3fb869e73e1ce3ae[0m
+[32m2022-06-11 11:14:44.776[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5228 with id d6a0bc5f9ca31ab7192f603fb246153642f21f281abf7a2a8777097c05dad47f[0m
+[32m2022-06-11 11:14:44.777[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:14:51.047[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container d6a0bc5f9ca31ab7192f603fb246153642f21f281abf7a2a8777097c05dad47f[0m
+[32m2022-06-11 11:14:51.528[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5405 with id bf0ec9e8917c86b4d4465b5b383315b4aa88e725c7df2ff37ccaf96db70454fd[0m
+[32m2022-06-11 11:14:51.528[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:14:57.800[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container bf0ec9e8917c86b4d4465b5b383315b4aa88e725c7df2ff37ccaf96db70454fd[0m
+[32m2022-06-11 11:14:58.417[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5828 with id 9d626e8e45a67510ac9eb2e4e47efa0767657bfb1be1aa152d842c75a1e2b2f3[0m
+[32m2022-06-11 11:14:58.417[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:15:04.697[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 9d626e8e45a67510ac9eb2e4e47efa0767657bfb1be1aa152d842c75a1e2b2f3[0m
+[32m2022-06-11 11:15:05.094[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5540 with id 5dce03c014eb14031612fb46e2b1ed2592e1c18c01d438d9f8223130fec1e696[0m
+[32m2022-06-11 11:15:05.094[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:15:11.385[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 5dce03c014eb14031612fb46e2b1ed2592e1c18c01d438d9f8223130fec1e696[0m
+[32m2022-06-11 11:15:11.891[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5468 with id 99736d7c0deb1a5999cef1d5f3a54a3adbd821674fdd88aeda89ebfdb49d0f6d[0m
+[32m2022-06-11 11:15:11.892[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:15:18.149[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 99736d7c0deb1a5999cef1d5f3a54a3adbd821674fdd88aeda89ebfdb49d0f6d[0m
+[32m2022-06-11 11:15:18.581[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5845 with id 0832c7a5c90382d593c31ca98d55c545285fe061064c810f83c8a73312c59e23[0m
+[32m2022-06-11 11:15:18.581[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:15:24.845[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 0832c7a5c90382d593c31ca98d55c545285fe061064c810f83c8a73312c59e23[0m
+[32m2022-06-11 11:15:25.229[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5499 with id 7b776ff233ae222a84750a2fa25377ffc4ae66301f39b46662ebe2c34973c01c[0m
+[32m2022-06-11 11:15:25.229[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:15:31.492[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7b776ff233ae222a84750a2fa25377ffc4ae66301f39b46662ebe2c34973c01c[0m
+[32m2022-06-11 11:15:31.901[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5224 with id 07879f2d344cda86b79118b490189dc7a40ea672c5fcc15424a641d53d85954b[0m
+[32m2022-06-11 11:15:31.902[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:15:38.171[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 07879f2d344cda86b79118b490189dc7a40ea672c5fcc15424a641d53d85954b[0m
+[32m2022-06-11 11:15:38.617[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5381 with id 8fe177e4555774a8b90be41573a9aa754f45ca20ad5c5faa08aac8bffdd3c0fb[0m
+[32m2022-06-11 11:15:38.617[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:15:44.871[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 8fe177e4555774a8b90be41573a9aa754f45ca20ad5c5faa08aac8bffdd3c0fb[0m
+[32m2022-06-11 11:15:45.311[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5725 with id 24d44e3b731a4ab534aaa58ea83f8ed59056f11bc994c8d1d5565d13bd71d6b9[0m
+[32m2022-06-11 11:15:45.312[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:15:51.568[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 24d44e3b731a4ab534aaa58ea83f8ed59056f11bc994c8d1d5565d13bd71d6b9[0m
+[32m2022-06-11 11:15:52.011[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5305 with id f99d2b8004686923c95deee4bac0b1febb25d9bae1ec3935aed8dbb1e9eae604[0m
+[32m2022-06-11 11:15:52.011[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:15:58.266[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container f99d2b8004686923c95deee4bac0b1febb25d9bae1ec3935aed8dbb1e9eae604[0m
+[32m2022-06-11 11:15:58.687[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5278 with id 658dcf9f59cf9a2dd72e1a77b4ec765ad1488ebd19b209a3b09e5b3960ef74b9[0m
+[32m2022-06-11 11:15:58.688[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:16:04.937[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 658dcf9f59cf9a2dd72e1a77b4ec765ad1488ebd19b209a3b09e5b3960ef74b9[0m
+[32m2022-06-11 11:16:05.367[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5950 with id b42448929d55333c739b22de2b84579a83123e14c2dc61a50b3776dfbb4ead2b[0m
+[32m2022-06-11 11:16:05.368[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:16:11.634[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container b42448929d55333c739b22de2b84579a83123e14c2dc61a50b3776dfbb4ead2b[0m
+[32m2022-06-11 11:16:12.088[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5178 with id d5e0da59657c6f986866e86e4ea3df2db50a7fd53439c4f230f1cb968946bfe7[0m
+[32m2022-06-11 11:16:12.089[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:16:18.363[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container d5e0da59657c6f986866e86e4ea3df2db50a7fd53439c4f230f1cb968946bfe7[0m
+[32m2022-06-11 11:16:18.775[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5941 with id de9da3eafeda9d2a88daed684a842605c99dffb5b61fd39fa91a34b2e37613c9[0m
+[32m2022-06-11 11:16:18.775[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:16:25.036[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container de9da3eafeda9d2a88daed684a842605c99dffb5b61fd39fa91a34b2e37613c9[0m
+[32m2022-06-11 11:16:25.408[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5314 with id 27c2a2d7d9a388be858fcbaf66cd21d8bf58ce5d0b87646f93a4262b72780909[0m
+[32m2022-06-11 11:16:25.409[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:16:31.671[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 27c2a2d7d9a388be858fcbaf66cd21d8bf58ce5d0b87646f93a4262b72780909[0m
+[32m2022-06-11 11:16:32.108[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5725 with id 3da304369baa5ac1fcb69dd9785d28f1f905565093188464b6afd0d37c7f967b[0m
+[32m2022-06-11 11:16:32.108[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:16:38.371[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 3da304369baa5ac1fcb69dd9785d28f1f905565093188464b6afd0d37c7f967b[0m
+[32m2022-06-11 11:16:38.802[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5830 with id c95b550f2a03aebbe57a1bf57e8dfd01200a8a48eadb9dcf024433fc5bc30d1f[0m
+[32m2022-06-11 11:16:38.803[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:16:45.050[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container c95b550f2a03aebbe57a1bf57e8dfd01200a8a48eadb9dcf024433fc5bc30d1f[0m
+[32m2022-06-11 11:16:45.794[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5201 with id 419977da20e4eeba8dac2a2282d31538ca7753d35dec49320c9f339436fd07aa[0m
+[32m2022-06-11 11:16:45.795[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:16:52.066[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 419977da20e4eeba8dac2a2282d31538ca7753d35dec49320c9f339436fd07aa[0m
+[32m2022-06-11 11:16:52.490[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5559 with id 9fd116f62898d94853c9e33f742d62be1183df6b8937b3794904d9acf290c5f0[0m
+[32m2022-06-11 11:16:52.491[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:16:58.737[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 9fd116f62898d94853c9e33f742d62be1183df6b8937b3794904d9acf290c5f0[0m
+[32m2022-06-11 11:16:59.165[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5704 with id 2051a0355d58ce550e901dce30352acc18848c77c2e2cc0a5e881843aa43a966[0m
+[32m2022-06-11 11:16:59.165[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:17:05.441[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 2051a0355d58ce550e901dce30352acc18848c77c2e2cc0a5e881843aa43a966[0m
+[32m2022-06-11 11:17:05.872[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5590 with id cc326acfb44a88807e2eb99c3f01cbdee0d8c001ccc68816ceb8a8b580cca922[0m
+[32m2022-06-11 11:17:05.873[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:17:12.122[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container cc326acfb44a88807e2eb99c3f01cbdee0d8c001ccc68816ceb8a8b580cca922[0m
+[32m2022-06-11 11:17:12.559[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5781 with id 055de87ab2a50ae98908defe47f9a9e966fdc626a308f36c8d17722da5d7e591[0m
+[32m2022-06-11 11:17:12.559[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:17:18.809[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 055de87ab2a50ae98908defe47f9a9e966fdc626a308f36c8d17722da5d7e591[0m
+[32m2022-06-11 11:17:19.253[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5549 with id 540de5175d02c5d0475b211d3d4d7efeb96549f864d4daa3fbdfeafac86fe1fa[0m
+[32m2022-06-11 11:17:19.253[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:17:25.505[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 540de5175d02c5d0475b211d3d4d7efeb96549f864d4daa3fbdfeafac86fe1fa[0m
+[32m2022-06-11 11:17:25.962[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5854 with id 34e645f66bc92a59fec3a9966e95b2f4a9ddcf61fbe2d3a10c0a522de1d54e71[0m
+[32m2022-06-11 11:17:25.963[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:17:32.234[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 34e645f66bc92a59fec3a9966e95b2f4a9ddcf61fbe2d3a10c0a522de1d54e71[0m
+[32m2022-06-11 11:17:32.680[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5145 with id 5e23f7c59fefff40488043e53f2904965e52d80fc3cb9fb6964c6826ee795faa[0m
+[32m2022-06-11 11:17:32.681[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:17:38.935[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 5e23f7c59fefff40488043e53f2904965e52d80fc3cb9fb6964c6826ee795faa[0m
+[32m2022-06-11 11:17:39.433[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5010 with id 19b9cd6311f9708bda5194254e3f0fdfc5d0c98f7db1001591556298a5e41518[0m
+[32m2022-06-11 11:17:39.434[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:17:45.716[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 19b9cd6311f9708bda5194254e3f0fdfc5d0c98f7db1001591556298a5e41518[0m
+[32m2022-06-11 11:17:46.326[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5219 with id cda93f7eedb0bee0dc0e7f4fa13f78c074d6ac8c5c46d4ab6a3fe7ff2dd97fc7[0m
+[32m2022-06-11 11:17:46.327[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:17:52.598[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container cda93f7eedb0bee0dc0e7f4fa13f78c074d6ac8c5c46d4ab6a3fe7ff2dd97fc7[0m
+[32m2022-06-11 11:17:53.120[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5892 with id 062aec6c53d9e28ea52d54c6e213c457a30602fab21945ad396477236162dd91[0m
+[32m2022-06-11 11:17:53.120[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:17:59.387[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 062aec6c53d9e28ea52d54c6e213c457a30602fab21945ad396477236162dd91[0m
+[32m2022-06-11 11:17:59.843[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5994 with id 787c385a8c56c8a4358dd4db1be26d8797ab1e0968d495dd007deb53d9815039[0m
+[32m2022-06-11 11:17:59.843[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:18:06.125[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 787c385a8c56c8a4358dd4db1be26d8797ab1e0968d495dd007deb53d9815039[0m
+[32m2022-06-11 11:18:06.549[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5252 with id 6dfea381df1db4812906d502cf3e703d91d0c163934e724a4d4a9d0527bc723b[0m
+[32m2022-06-11 11:18:06.549[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:18:12.816[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 6dfea381df1db4812906d502cf3e703d91d0c163934e724a4d4a9d0527bc723b[0m
+[32m2022-06-11 11:18:13.279[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5895 with id 1096cca9ad7efef2ad0b362f166b52e14351b5f4f56eac67e1115d683f7eccfb[0m
+[32m2022-06-11 11:18:13.280[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:18:19.546[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 1096cca9ad7efef2ad0b362f166b52e14351b5f4f56eac67e1115d683f7eccfb[0m
+[32m2022-06-11 11:18:19.970[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5745 with id ab948808af4e5b6a53b4d3a9dfa8e5b8b6979fda200608c716a085b33b337cce[0m
+[32m2022-06-11 11:18:19.971[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:18:26.237[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container ab948808af4e5b6a53b4d3a9dfa8e5b8b6979fda200608c716a085b33b337cce[0m
+[32m2022-06-11 11:18:26.695[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5192 with id 7df3ea5d8435745c096af9f219d9d7ceeea5bc2ab6288348f68706190c7f941b[0m
+[32m2022-06-11 11:18:26.696[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:18:32.978[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7df3ea5d8435745c096af9f219d9d7ceeea5bc2ab6288348f68706190c7f941b[0m
+[32m2022-06-11 11:18:33.414[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5390 with id e428385b15e0bcaf88d7853939f5266b25ea731950e699ec247ba80772d43871[0m
+[32m2022-06-11 11:18:33.415[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:18:39.681[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container e428385b15e0bcaf88d7853939f5266b25ea731950e699ec247ba80772d43871[0m
+[32m2022-06-11 11:18:40.096[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5976 with id e96afb844a2df1e7cd4f4c34ba8ed3fc6cb5c532efadef344fcceb901e00c36c[0m
+[32m2022-06-11 11:18:40.097[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:18:46.341[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container e96afb844a2df1e7cd4f4c34ba8ed3fc6cb5c532efadef344fcceb901e00c36c[0m
+[32m2022-06-11 11:18:46.818[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5135 with id 7f6e02cb4bf2dad0b11640a5d876122fabe7382f7fdc0ce378b14098a86040b9[0m
+[32m2022-06-11 11:18:46.819[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:18:53.098[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7f6e02cb4bf2dad0b11640a5d876122fabe7382f7fdc0ce378b14098a86040b9[0m
+[32m2022-06-11 11:18:53.549[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5202 with id c567658adea937c24d04755367446f4fe23d89b5a0af0c4ad5bf25a2218031be[0m
+[32m2022-06-11 11:18:53.550[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:18:59.818[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container c567658adea937c24d04755367446f4fe23d89b5a0af0c4ad5bf25a2218031be[0m
+[32m2022-06-11 11:19:00.250[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5016 with id 9ac7f51722e76a274ebe73973b1943c8f9756103b1b2bb41b9ce97e45b17ae01[0m
+[32m2022-06-11 11:19:00.251[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:19:06.559[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 9ac7f51722e76a274ebe73973b1943c8f9756103b1b2bb41b9ce97e45b17ae01[0m
+[32m2022-06-11 11:19:06.981[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5489 with id ddd0a52529dddaf3bbb24ae56cd3bd905430284f3ee8d918b59a4dd228d7266c[0m
+[32m2022-06-11 11:19:06.982[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:19:13.256[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container ddd0a52529dddaf3bbb24ae56cd3bd905430284f3ee8d918b59a4dd228d7266c[0m
+[32m2022-06-11 11:19:13.685[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5514 with id 17ab3f51196a027a8ef0273ae7c05510642745555b92c14edc512c3a66f0bb8c[0m
+[32m2022-06-11 11:19:13.686[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:19:19.957[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 17ab3f51196a027a8ef0273ae7c05510642745555b92c14edc512c3a66f0bb8c[0m
+[32m2022-06-11 11:19:20.586[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5521 with id 3881ebc423cf00950fafbf81405e06f5b990a535f9bb2024424901e2c2b31975[0m
+[32m2022-06-11 11:19:20.587[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:19:26.881[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 3881ebc423cf00950fafbf81405e06f5b990a535f9bb2024424901e2c2b31975[0m
+[32m2022-06-11 11:19:27.507[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5545 with id 6210984b1fad5845914c59ee453794267bd25ea2153954c2026f46d6c0611102[0m
+[32m2022-06-11 11:19:27.508[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:19:33.820[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 6210984b1fad5845914c59ee453794267bd25ea2153954c2026f46d6c0611102[0m
+[32m2022-06-11 11:19:34.225[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5438 with id 4c5e5cce1728ed8a7d1da26e1dd04430172d43409238a0cdc8ebeb3bc5cbc999[0m
+[32m2022-06-11 11:19:34.226[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:19:40.495[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 4c5e5cce1728ed8a7d1da26e1dd04430172d43409238a0cdc8ebeb3bc5cbc999[0m
+[32m2022-06-11 11:19:40.937[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5660 with id 8665ffab03e3094e16ae14ff406204d4fb23ecfc3b17fb6b1e1f0a6b37a5250d[0m
+[32m2022-06-11 11:19:40.937[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:19:47.203[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 8665ffab03e3094e16ae14ff406204d4fb23ecfc3b17fb6b1e1f0a6b37a5250d[0m
+[32m2022-06-11 11:19:47.606[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5800 with id aad80823b34b85b61dbac939b0d767e8abae012ad8a1378cb5888220287f956e[0m
+[32m2022-06-11 11:19:47.606[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:19:53.891[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container aad80823b34b85b61dbac939b0d767e8abae012ad8a1378cb5888220287f956e[0m
+[32m2022-06-11 11:19:54.371[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5292 with id 53b21b138a7d69ff68c37240a41da689b7ebe7a47f68c7a5dbae7cd057a47952[0m
+[32m2022-06-11 11:19:54.372[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:20:00.658[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 53b21b138a7d69ff68c37240a41da689b7ebe7a47f68c7a5dbae7cd057a47952[0m
+[32m2022-06-11 11:20:01.109[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5775 with id b8e0435fd9abd7dca6cefae6842ef9a846d60ec8bd5a6e8bc4686bf5ff5172e4[0m
+[32m2022-06-11 11:20:01.110[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:20:07.382[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container b8e0435fd9abd7dca6cefae6842ef9a846d60ec8bd5a6e8bc4686bf5ff5172e4[0m
+[32m2022-06-11 11:20:07.892[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5964 with id 4963fa924e40b986c2f481478a629e7d27b7c290f035c168ac0c390098d65c4b[0m
+[32m2022-06-11 11:20:07.892[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:20:14.156[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 4963fa924e40b986c2f481478a629e7d27b7c290f035c168ac0c390098d65c4b[0m
+[32m2022-06-11 11:20:14.632[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5199 with id ba7c220080c1db69f3fc21da2a90a2abe193e53d5ae77d3db9242a87a14c6168[0m
+[32m2022-06-11 11:20:14.632[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:20:20.941[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container ba7c220080c1db69f3fc21da2a90a2abe193e53d5ae77d3db9242a87a14c6168[0m
+[32m2022-06-11 11:20:21.729[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5589 with id 7d84b37bcb37f0c0964ba6cae981ffadb1a5dfc7c21a0daa73e441a38dc776f9[0m
+[32m2022-06-11 11:20:21.729[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:20:28.013[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7d84b37bcb37f0c0964ba6cae981ffadb1a5dfc7c21a0daa73e441a38dc776f9[0m
+[32m2022-06-11 11:20:28.446[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5837 with id e5dc45e4332cb10cc4a06ed3e166ea6f2454ea9fb732ccd47bc583e121c8f4dd[0m
+[32m2022-06-11 11:20:28.447[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:20:34.713[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container e5dc45e4332cb10cc4a06ed3e166ea6f2454ea9fb732ccd47bc583e121c8f4dd[0m
+[32m2022-06-11 11:20:35.258[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5681 with id a4c5b900e31fd5f95c6a6607996fe6faad5ffaa78c8521fda0592d1ffd7cec4b[0m
+[32m2022-06-11 11:20:35.259[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:20:41.542[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container a4c5b900e31fd5f95c6a6607996fe6faad5ffaa78c8521fda0592d1ffd7cec4b[0m
+[32m2022-06-11 11:20:42.027[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5859 with id 03b81a090624964d30d6c64690102dc24fb752e524dc6d3da8dbe77aa9834afb[0m
+[32m2022-06-11 11:20:42.028[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:20:48.306[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 03b81a090624964d30d6c64690102dc24fb752e524dc6d3da8dbe77aa9834afb[0m
+[32m2022-06-11 11:20:48.760[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5679 with id c54ceb2c51b4362b2c3c8d239cd80258ea965a981e25cd7310407268b3c2d57a[0m
+[32m2022-06-11 11:20:48.761[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:20:55.025[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container c54ceb2c51b4362b2c3c8d239cd80258ea965a981e25cd7310407268b3c2d57a[0m
+[32m2022-06-11 11:20:55.484[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5877 with id 108bc5c975d23ed1ce05d7745aec8d6f91d17c2db9174666977dd0064cb00ab5[0m
+[32m2022-06-11 11:20:55.485[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:21:01.755[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 108bc5c975d23ed1ce05d7745aec8d6f91d17c2db9174666977dd0064cb00ab5[0m
+[32m2022-06-11 11:21:02.185[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5868 with id 1a27ac1fa6e5349d293c15b3746b6e4ea7fdf58e5ddda22e75ff2ed41bef8522[0m
+[32m2022-06-11 11:21:02.188[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:21:08.475[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 1a27ac1fa6e5349d293c15b3746b6e4ea7fdf58e5ddda22e75ff2ed41bef8522[0m
+[32m2022-06-11 11:21:08.944[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5900 with id b675cfd47226f49422809f6e145a6a4553797c7f8c92a96d73b8947eefa7f9b2[0m
+[32m2022-06-11 11:21:08.945[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:21:15.211[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container b675cfd47226f49422809f6e145a6a4553797c7f8c92a96d73b8947eefa7f9b2[0m
+[32m2022-06-11 11:21:15.663[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5592 with id 9ab2477a3ee51264ee27d094f6f8c47dd19562845c001f8026568c746d5c8442[0m
+[32m2022-06-11 11:21:15.663[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:21:21.970[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 9ab2477a3ee51264ee27d094f6f8c47dd19562845c001f8026568c746d5c8442[0m
+[32m2022-06-11 11:21:22.602[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5860 with id a8d975c1211afff918b3f49778f511b3e78bdf9030ca484d39b54063d7ef4788[0m
+[32m2022-06-11 11:21:22.603[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:21:28.876[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container a8d975c1211afff918b3f49778f511b3e78bdf9030ca484d39b54063d7ef4788[0m
+[32m2022-06-11 11:21:29.347[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5918 with id a294d7f9774cbe29f88a69ffadab78525ed4351165a7c60312386fc339fffef0[0m
+[32m2022-06-11 11:21:29.347[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:21:35.618[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container a294d7f9774cbe29f88a69ffadab78525ed4351165a7c60312386fc339fffef0[0m
+[32m2022-06-11 11:21:36.058[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5747 with id d16d5e228a5c0f0a85789f7e4e6aabfefd272becc0e77515847c3c19033ce84a[0m
+[32m2022-06-11 11:21:36.059[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:21:42.341[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container d16d5e228a5c0f0a85789f7e4e6aabfefd272becc0e77515847c3c19033ce84a[0m
+[32m2022-06-11 11:21:42.787[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5183 with id a55e7ada30a762c974e706276133104cc57329dba4e0570d4e587662ed062296[0m
+[32m2022-06-11 11:21:42.788[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:21:49.050[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container a55e7ada30a762c974e706276133104cc57329dba4e0570d4e587662ed062296[0m
+[32m2022-06-11 11:21:49.503[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5625 with id 702a13a4c333436d33ed4e2acef7afba8251e442103c830f5de33589794c0202[0m
+[32m2022-06-11 11:21:49.504[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:21:55.752[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 702a13a4c333436d33ed4e2acef7afba8251e442103c830f5de33589794c0202[0m
+[32m2022-06-11 11:21:56.224[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5321 with id 43a8a2a4078aed797d0e77eb28233b2bc3e4c1d48da7913825067a4afa24e03a[0m
+[32m2022-06-11 11:21:56.225[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:22:02.494[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 43a8a2a4078aed797d0e77eb28233b2bc3e4c1d48da7913825067a4afa24e03a[0m
+[32m2022-06-11 11:22:02.895[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5007 with id b8b4727a082465b7b00275a159aa387d3a9eefd37665f4c46ee2fe5bc2e26859[0m
+[32m2022-06-11 11:22:02.895[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:22:09.146[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container b8b4727a082465b7b00275a159aa387d3a9eefd37665f4c46ee2fe5bc2e26859[0m
+[32m2022-06-11 11:22:09.595[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5955 with id d121ed978ce6ecef0738c9a80e858095fdc65e943affd745508381576df5dbbe[0m
+[32m2022-06-11 11:22:09.596[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:22:15.971[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container d121ed978ce6ecef0738c9a80e858095fdc65e943affd745508381576df5dbbe[0m
+[32m2022-06-11 11:22:16.472[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5705 with id 519ff7da36bed7092370603eb905b4c4d72d36af09a2a96719f71c9f1c894e4f[0m
+[32m2022-06-11 11:22:16.473[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:22:22.748[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 519ff7da36bed7092370603eb905b4c4d72d36af09a2a96719f71c9f1c894e4f[0m
+[32m2022-06-11 11:22:23.192[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5627 with id dd62e7c2989ebaeb8bb39b373618c3168cab624295a9faf11718eca4f2ed147e[0m
+[32m2022-06-11 11:22:23.193[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:22:29.453[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container dd62e7c2989ebaeb8bb39b373618c3168cab624295a9faf11718eca4f2ed147e[0m
+[32m2022-06-11 11:22:29.862[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5128 with id bfdcb74b96791cd52bbe418a5b5e0837df7be862aa47e7100456002d76453b07[0m
+[32m2022-06-11 11:22:29.863[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:22:36.142[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container bfdcb74b96791cd52bbe418a5b5e0837df7be862aa47e7100456002d76453b07[0m
+[32m2022-06-11 11:22:36.727[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5666 with id 1fa57d8e11572b00904c768c7f4174f64020f15a09b77ab404559e13da4008ed[0m
+[32m2022-06-11 11:22:36.727[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:22:43.008[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 1fa57d8e11572b00904c768c7f4174f64020f15a09b77ab404559e13da4008ed[0m
+[32m2022-06-11 11:22:43.439[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5265 with id 0258357b9a30694b1d082fd226e745ade3fcc54e5cf14098f319e17a1065a6ba[0m
+[32m2022-06-11 11:22:43.439[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:22:49.706[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 0258357b9a30694b1d082fd226e745ade3fcc54e5cf14098f319e17a1065a6ba[0m
+[32m2022-06-11 11:22:50.203[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5697 with id 06958069d549fe038f6aa636ceec1b233def1af5fd35e65f5856870ed475784a[0m
+[32m2022-06-11 11:22:50.204[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:22:56.496[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 06958069d549fe038f6aa636ceec1b233def1af5fd35e65f5856870ed475784a[0m
+[32m2022-06-11 11:22:57.005[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5879 with id 0dcbfbb25898a26c9ce58f5653f927bd5fd1da77f697fb449a4243fceabf519a[0m
+[32m2022-06-11 11:22:57.006[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:23:03.344[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 0dcbfbb25898a26c9ce58f5653f927bd5fd1da77f697fb449a4243fceabf519a[0m
+[32m2022-06-11 11:23:03.973[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5809 with id c6309d22d63aa5eab680647ad65062b5741787671e6738f3df4ce33b727eeffc[0m
+[32m2022-06-11 11:23:03.975[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:23:10.257[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container c6309d22d63aa5eab680647ad65062b5741787671e6738f3df4ce33b727eeffc[0m
+[32m2022-06-11 11:23:10.710[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5917 with id 8730e04cc3f74de037e4bf84079b93360c7c744f318d924c53a5ca5ad7f80a0d[0m
+[32m2022-06-11 11:23:10.710[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:23:17.018[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 8730e04cc3f74de037e4bf84079b93360c7c744f318d924c53a5ca5ad7f80a0d[0m
+[32m2022-06-11 11:23:17.596[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5754 with id 4b909fde8e646d0eb10d2e43a5343972e0339143017eed16ef3450da2708d00f[0m
+[32m2022-06-11 11:23:17.597[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:23:23.937[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 4b909fde8e646d0eb10d2e43a5343972e0339143017eed16ef3450da2708d00f[0m
+[32m2022-06-11 11:23:24.431[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5005 with id f972867975a8027989648e729176897b351a7d6ba183214a89fe78935dc871fe[0m
+[32m2022-06-11 11:23:24.432[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:23:30.740[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container f972867975a8027989648e729176897b351a7d6ba183214a89fe78935dc871fe[0m
+[32m2022-06-11 11:23:31.153[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5746 with id bbe0adbec506bab3d6cff0056ce7ec7287954b227b69cfc83f92c1dd691421e2[0m
+[32m2022-06-11 11:23:31.154[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:23:37.453[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container bbe0adbec506bab3d6cff0056ce7ec7287954b227b69cfc83f92c1dd691421e2[0m
+[32m2022-06-11 11:23:37.936[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5198 with id 4cf3fe7028be747421b2d4dd3b7ccf8ef880f255bd4584f4f3f8c4435dd06760[0m
+[32m2022-06-11 11:23:37.936[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:23:44.224[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 4cf3fe7028be747421b2d4dd3b7ccf8ef880f255bd4584f4f3f8c4435dd06760[0m
+[32m2022-06-11 11:23:44.763[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5009 with id adc807340967cefb8265c91a5a1a981e60ca455e3e21b1312062814748565787[0m
+[32m2022-06-11 11:23:44.764[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:23:51.076[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container adc807340967cefb8265c91a5a1a981e60ca455e3e21b1312062814748565787[0m
+[32m2022-06-11 11:23:51.522[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5137 with id 49dd3ef3f733da38856197657d876bbe8a3ffc6394a0c50befc4c27c6812b07c[0m
+[32m2022-06-11 11:23:51.523[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:23:57.872[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 49dd3ef3f733da38856197657d876bbe8a3ffc6394a0c50befc4c27c6812b07c[0m
+[32m2022-06-11 11:23:58.388[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5821 with id b8262e51db1c3ecc9006915c89dd91c6639248489cfd9881a84f4fc866049719[0m
+[32m2022-06-11 11:23:58.389[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:24:04.776[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container b8262e51db1c3ecc9006915c89dd91c6639248489cfd9881a84f4fc866049719[0m
+[32m2022-06-11 11:24:05.321[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5175 with id 886852fefe43051ce53f00b01eca789a9206961cb56e778148df0b1a8a8d54d1[0m
+[32m2022-06-11 11:24:05.321[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:24:11.758[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 886852fefe43051ce53f00b01eca789a9206961cb56e778148df0b1a8a8d54d1[0m
+[32m2022-06-11 11:24:12.284[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5720 with id ab09e24c59e1daacca398668f0601e50f8bc5fef6183728ed4ee101b2629c821[0m
+[32m2022-06-11 11:24:12.287[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:24:18.719[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container ab09e24c59e1daacca398668f0601e50f8bc5fef6183728ed4ee101b2629c821[0m
+[32m2022-06-11 11:24:19.237[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5010 with id fbc43845e7df25e407d0765e1c22edfc1e1a5129704b4c1323dbd21928daecfe[0m
+[32m2022-06-11 11:24:19.238[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:24:25.718[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container fbc43845e7df25e407d0765e1c22edfc1e1a5129704b4c1323dbd21928daecfe[0m
+[32m2022-06-11 11:24:26.191[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5061 with id 2a4d71505405696906c400b16678ed1ca2bc8e7259e5405b28956d78f0dd0b23[0m
+[32m2022-06-11 11:24:26.192[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:24:32.699[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 2a4d71505405696906c400b16678ed1ca2bc8e7259e5405b28956d78f0dd0b23[0m
+[32m2022-06-11 11:24:33.240[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5387 with id 0600c71e5de445ba2a695590f277d1f7dbe6e923899a1873bdffa843a9e77cc8[0m
+[32m2022-06-11 11:24:33.241[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:24:39.835[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 0600c71e5de445ba2a695590f277d1f7dbe6e923899a1873bdffa843a9e77cc8[0m
+[32m2022-06-11 11:24:40.406[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5781 with id f2bfb0af70cf6118742a199f3aee575d08c2677540608d2415db585d9dff9315[0m
+[32m2022-06-11 11:24:40.406[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:24:46.876[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container f2bfb0af70cf6118742a199f3aee575d08c2677540608d2415db585d9dff9315[0m
+[32m2022-06-11 11:24:47.506[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5748 with id 7fba874aa2c24806bfc00e5b3ad2422802e24308017b8234ef6c313e1418e4b8[0m
+[32m2022-06-11 11:24:47.506[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:24:53.945[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7fba874aa2c24806bfc00e5b3ad2422802e24308017b8234ef6c313e1418e4b8[0m
+[32m2022-06-11 11:24:54.500[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5600 with id 872a5a5cff4e3877b424c9250ed40e2f02e349df12aec5f9ef69b37a04824925[0m
+[32m2022-06-11 11:24:54.500[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:25:00.994[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 872a5a5cff4e3877b424c9250ed40e2f02e349df12aec5f9ef69b37a04824925[0m
+[32m2022-06-11 11:25:01.586[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5776 with id 97b33c5902234268958bd6c288e48a4251902010a301b3b15e922406c94fbfbb[0m
+[32m2022-06-11 11:25:01.589[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:25:08.111[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 97b33c5902234268958bd6c288e48a4251902010a301b3b15e922406c94fbfbb[0m
+[32m2022-06-11 11:25:08.632[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5533 with id cadbfb8bbf04f64235c6f541e48bc54aa8e02ed62872d4e60b6a52cd4dfc8024[0m
+[32m2022-06-11 11:25:08.633[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:25:15.194[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container cadbfb8bbf04f64235c6f541e48bc54aa8e02ed62872d4e60b6a52cd4dfc8024[0m
+[32m2022-06-11 11:25:15.696[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5499 with id b865be120baaf2ce2a5ae0d7e6e8a3971c4eaaf55a3c39518d31c38ab1bea21b[0m
+[32m2022-06-11 11:25:15.697[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:25:22.244[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container b865be120baaf2ce2a5ae0d7e6e8a3971c4eaaf55a3c39518d31c38ab1bea21b[0m
+[32m2022-06-11 11:25:22.755[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5295 with id 9078971d8c265e0e3bd75f5226d7f7ebb4fbbb3fda46fdef6fb773bb946cfc63[0m
+[32m2022-06-11 11:25:22.755[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:25:29.294[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 9078971d8c265e0e3bd75f5226d7f7ebb4fbbb3fda46fdef6fb773bb946cfc63[0m
+[32m2022-06-11 11:25:29.855[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5903 with id 3be6132b05d4f7ca032c6191a3a1f73b0b1d7197c6cd4870fd884e44118be836[0m
+[32m2022-06-11 11:25:29.855[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:25:36.386[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 3be6132b05d4f7ca032c6191a3a1f73b0b1d7197c6cd4870fd884e44118be836[0m
+[32m2022-06-11 11:25:36.894[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5641 with id ea352c3bc1d574ec9ecc161bee275b377a33cdfaae81c87d530955738ca24ead[0m
+[32m2022-06-11 11:25:36.894[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:25:43.444[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container ea352c3bc1d574ec9ecc161bee275b377a33cdfaae81c87d530955738ca24ead[0m
+[32m2022-06-11 11:25:44.019[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5001 with id b9c3d4e967300a59ac280a4f121d0816866a7987092f5226365ce2469e742479[0m
+[32m2022-06-11 11:25:44.020[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:25:50.617[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container b9c3d4e967300a59ac280a4f121d0816866a7987092f5226365ce2469e742479[0m
+[32m2022-06-11 11:25:51.111[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5985 with id aa7194401d86657a5bc48eea61234e385f7a4878d184dd77545530af39b4d89b[0m
+[32m2022-06-11 11:25:51.111[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:25:57.669[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container aa7194401d86657a5bc48eea61234e385f7a4878d184dd77545530af39b4d89b[0m
+[32m2022-06-11 11:25:58.145[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5164 with id 3dee18ff37ded777ac51dfb6493d8654129d55b6dd931c8d320fd7328d49cb23[0m
+[32m2022-06-11 11:25:58.146[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:26:04.739[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 3dee18ff37ded777ac51dfb6493d8654129d55b6dd931c8d320fd7328d49cb23[0m
+[32m2022-06-11 11:26:05.257[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5816 with id 7dc32d504b9817b6bfdc5308a2e549582844c31565724ee48288b5286b0fc42c[0m
+[32m2022-06-11 11:26:05.257[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:26:11.859[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7dc32d504b9817b6bfdc5308a2e549582844c31565724ee48288b5286b0fc42c[0m
+[32m2022-06-11 11:26:12.366[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5303 with id e72caf8daec1726fa5bd78ece03388aa6125c00e0d8e6cbdeae9906c35e8c01f[0m
+[32m2022-06-11 11:26:12.366[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:26:18.989[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container e72caf8daec1726fa5bd78ece03388aa6125c00e0d8e6cbdeae9906c35e8c01f[0m
+[32m2022-06-11 11:26:19.516[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5393 with id 745fb2c56a49b6ed61f7b75c23d53cdb37850a713b2ff569775fa5dd1a37b48f[0m
+[32m2022-06-11 11:26:19.516[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:26:26.113[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 745fb2c56a49b6ed61f7b75c23d53cdb37850a713b2ff569775fa5dd1a37b48f[0m
+[32m2022-06-11 11:26:26.622[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5835 with id 88b0128210ff6664ee8d264ac3485748b4aa934abbcb6ec67a7d380e5ce6d234[0m
+[32m2022-06-11 11:26:26.622[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:26:33.208[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 88b0128210ff6664ee8d264ac3485748b4aa934abbcb6ec67a7d380e5ce6d234[0m
+[32m2022-06-11 11:26:33.690[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5645 with id 479ec82d87b63e02cc9edd1fe55d6c33acc0a61dcd5e9bbafc98168844ccba1e[0m
+[32m2022-06-11 11:26:33.690[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:26:40.285[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 479ec82d87b63e02cc9edd1fe55d6c33acc0a61dcd5e9bbafc98168844ccba1e[0m
+[32m2022-06-11 11:26:40.773[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5141 with id b8fdb582abca8c6635ccc94b6b0176301ab0863cf415121a545c87de8580ea06[0m
+[32m2022-06-11 11:26:40.773[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:26:47.324[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container b8fdb582abca8c6635ccc94b6b0176301ab0863cf415121a545c87de8580ea06[0m
+[32m2022-06-11 11:26:47.873[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5933 with id b7882cb552f2f2af26d3adda26b6e56c0645187791feecd32920a64ef5217700[0m
+[32m2022-06-11 11:26:47.873[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:26:54.425[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container b7882cb552f2f2af26d3adda26b6e56c0645187791feecd32920a64ef5217700[0m
+[32m2022-06-11 11:26:54.942[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5764 with id 8f3b81820406f81c0d27fdf7ace7cb87ff71095d494e3b05c840b055babe3da4[0m
+[32m2022-06-11 11:26:54.943[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:27:01.625[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 8f3b81820406f81c0d27fdf7ace7cb87ff71095d494e3b05c840b055babe3da4[0m
+[32m2022-06-11 11:27:02.178[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5828 with id 0c4ec0ebbcd56911d2a52735c1047eb41117d8fd152e6788c83da61671007b28[0m
+[32m2022-06-11 11:27:02.178[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:27:08.806[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 0c4ec0ebbcd56911d2a52735c1047eb41117d8fd152e6788c83da61671007b28[0m
+[32m2022-06-11 11:27:09.401[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5281 with id 5d52d6e62385d42c236fdf8ca0abf19db588d2f8b00390e38578202d5755f8ee[0m
+[32m2022-06-11 11:27:09.401[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:27:15.991[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 5d52d6e62385d42c236fdf8ca0abf19db588d2f8b00390e38578202d5755f8ee[0m
+[32m2022-06-11 11:27:16.488[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5235 with id 893eaaecc8028a2d09795f023d708e048081103c664c329d0c72316f5218a22d[0m
+[32m2022-06-11 11:27:16.489[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:27:23.084[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 893eaaecc8028a2d09795f023d708e048081103c664c329d0c72316f5218a22d[0m
+[32m2022-06-11 11:27:23.629[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5411 with id 4becaee280be355d6e74e4587034463cbba032e75223abd49af9408077d5290d[0m
+[32m2022-06-11 11:27:23.630[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:27:30.207[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 4becaee280be355d6e74e4587034463cbba032e75223abd49af9408077d5290d[0m
+[32m2022-06-11 11:27:30.712[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5357 with id 25efbb195e4cf3917ec3d3fee5c571d6941930e9ade5f9e778af1f9087aa287b[0m
+[32m2022-06-11 11:27:30.713[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:27:37.340[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 25efbb195e4cf3917ec3d3fee5c571d6941930e9ade5f9e778af1f9087aa287b[0m
+[32m2022-06-11 11:27:37.838[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5471 with id e9870202db47eeefe386a1c167389c98077b72c09585496b3e93ed409271c682[0m
+[32m2022-06-11 11:27:37.838[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:27:44.422[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container e9870202db47eeefe386a1c167389c98077b72c09585496b3e93ed409271c682[0m
+[32m2022-06-11 11:27:45.133[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5704 with id 29e658c7ed9b9d10b1adef9f3f7f243a46ecf6f5540b342c4d7929aa73d1da36[0m
+[32m2022-06-11 11:27:45.133[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:27:51.713[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 29e658c7ed9b9d10b1adef9f3f7f243a46ecf6f5540b342c4d7929aa73d1da36[0m
+[32m2022-06-11 11:27:52.548[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5083 with id 2b081d07232dec6fbbfc01c6c318a391b3b927f3914af8b41c22c4c336dd28ad[0m
+[32m2022-06-11 11:27:52.549[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:27:59.127[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 2b081d07232dec6fbbfc01c6c318a391b3b927f3914af8b41c22c4c336dd28ad[0m
+[32m2022-06-11 11:27:59.605[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5162 with id 327a5545049039088e35a14af6977a8e123a61a66e356ca1aae41b2037a82601[0m
+[32m2022-06-11 11:27:59.606[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:28:06.187[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 327a5545049039088e35a14af6977a8e123a61a66e356ca1aae41b2037a82601[0m
+[32m2022-06-11 11:28:06.711[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5242 with id 0c4ff8889a4a067cb8a4fd2bdad2f11a3f252a519d42b962264800fb596057b9[0m
+[32m2022-06-11 11:28:06.712[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:28:13.435[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 0c4ff8889a4a067cb8a4fd2bdad2f11a3f252a519d42b962264800fb596057b9[0m
+[32m2022-06-11 11:28:14.100[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5930 with id 49069b9ec8b4f18ef5c9d033fb084163f218a37dd4df726f8ecd995760aff5c5[0m
+[32m2022-06-11 11:28:14.101[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:28:20.709[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 49069b9ec8b4f18ef5c9d033fb084163f218a37dd4df726f8ecd995760aff5c5[0m
+[32m2022-06-11 11:28:21.287[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5451 with id a4df078ed69d01a6f302f95eb2da4027b44f0c3fa1183d01c8eb24a8dc64268f[0m
+[32m2022-06-11 11:28:21.287[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:28:27.917[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container a4df078ed69d01a6f302f95eb2da4027b44f0c3fa1183d01c8eb24a8dc64268f[0m
+[32m2022-06-11 11:28:28.494[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5181 with id 7f6f092425223f3c34882847df97169c62ac7e990ed1d1f23d1b48cb76f33881[0m
+[32m2022-06-11 11:28:28.495[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:28:35.080[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7f6f092425223f3c34882847df97169c62ac7e990ed1d1f23d1b48cb76f33881[0m
+[32m2022-06-11 11:28:35.542[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5367 with id 7e8a985777843bbcc985c17d5a54f1c98eac0e352247e79083c8d4f14df2385b[0m
+[32m2022-06-11 11:28:35.542[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:28:42.117[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7e8a985777843bbcc985c17d5a54f1c98eac0e352247e79083c8d4f14df2385b[0m
+[32m2022-06-11 11:28:42.618[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5055 with id 9af5a5b6d99a92b75733e3910feeefc79a04aac09c2afc84ecc13fbe6e6c7c7a[0m
+[32m2022-06-11 11:28:42.618[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:28:49.175[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 9af5a5b6d99a92b75733e3910feeefc79a04aac09c2afc84ecc13fbe6e6c7c7a[0m
+[32m2022-06-11 11:28:49.684[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5862 with id 50225c836bdb5e0d9478b8ed10d13fddfbcf82b64988c1d7c8c8ade44f3f9aed[0m
+[32m2022-06-11 11:28:49.685[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:28:56.294[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 50225c836bdb5e0d9478b8ed10d13fddfbcf82b64988c1d7c8c8ade44f3f9aed[0m
+[32m2022-06-11 11:28:56.833[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5000 with id e6f38743154b020ff7813322e0b26938f637505ff61d401302dcc3da35c5bdcb[0m
+[32m2022-06-11 11:28:56.833[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:29:03.414[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container e6f38743154b020ff7813322e0b26938f637505ff61d401302dcc3da35c5bdcb[0m
+[32m2022-06-11 11:29:03.950[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5064 with id 06925222558f3a93e2a5268eb831609b6a25689908a7551669418873bcad6474[0m
+[32m2022-06-11 11:29:03.950[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:29:10.550[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 06925222558f3a93e2a5268eb831609b6a25689908a7551669418873bcad6474[0m
+[32m2022-06-11 11:29:11.030[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5461 with id 6031e11ed791033d94a40fc08aaceec9089e831cfcbc81c9d29a531cd0c9bd59[0m
+[32m2022-06-11 11:29:11.030[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:29:17.613[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 6031e11ed791033d94a40fc08aaceec9089e831cfcbc81c9d29a531cd0c9bd59[0m
+[32m2022-06-11 11:29:18.118[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5545 with id 93e15508bb3a3f2aa75709f921cc31316eedd43b29744215ccfbb67eca9f83a1[0m
+[32m2022-06-11 11:29:18.118[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:29:24.693[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 93e15508bb3a3f2aa75709f921cc31316eedd43b29744215ccfbb67eca9f83a1[0m
+[32m2022-06-11 11:29:25.199[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5744 with id 2229d1ba33b8291edeb7a11809835e873b343d1a3e67910fd2b389dd56f9ae06[0m
+[32m2022-06-11 11:29:25.200[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:29:31.783[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 2229d1ba33b8291edeb7a11809835e873b343d1a3e67910fd2b389dd56f9ae06[0m
+[32m2022-06-11 11:29:32.344[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5470 with id 4381f08002e5703b95769528d5484252eff61be6998a8f0a0cd74253b42f75ed[0m
+[32m2022-06-11 11:29:32.345[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:29:38.931[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 4381f08002e5703b95769528d5484252eff61be6998a8f0a0cd74253b42f75ed[0m
+[32m2022-06-11 11:29:39.534[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5522 with id bdfaed6212ffc461878cd12594da57619e45901f98c2c8db25bf8a3bef9b4404[0m
+[32m2022-06-11 11:29:39.534[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:29:46.130[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container bdfaed6212ffc461878cd12594da57619e45901f98c2c8db25bf8a3bef9b4404[0m
+[32m2022-06-11 11:29:46.672[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5125 with id 0490260c4e6297a7964229f367921f92b355a1e380006ad5f6d57e779ded6e45[0m
+[32m2022-06-11 11:29:46.672[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:29:53.248[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 0490260c4e6297a7964229f367921f92b355a1e380006ad5f6d57e779ded6e45[0m
+[32m2022-06-11 11:29:53.777[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5998 with id 01e29f6894125c5d63cfc983a32876fa32d0f36d6abcb32d4797332ba7e4c67f[0m
+[32m2022-06-11 11:29:53.778[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:30:00.321[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 01e29f6894125c5d63cfc983a32876fa32d0f36d6abcb32d4797332ba7e4c67f[0m
+[32m2022-06-11 11:30:00.859[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5193 with id 17fb80f2b09214f691f9d7d15bb35c9197843a10b7109c4ae75877bb8a0e828e[0m
+[32m2022-06-11 11:30:00.860[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:30:07.432[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 17fb80f2b09214f691f9d7d15bb35c9197843a10b7109c4ae75877bb8a0e828e[0m
+[32m2022-06-11 11:30:07.969[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5577 with id 1602dbb08dca1c9ffab3f1ef192e447efabcf85666298d3a325876018e676506[0m
+[32m2022-06-11 11:30:07.969[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:30:14.553[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 1602dbb08dca1c9ffab3f1ef192e447efabcf85666298d3a325876018e676506[0m
+[32m2022-06-11 11:30:15.107[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5405 with id d0a6d23e16c84ecb98bd508c44b6a5bff8f0d3021e1dc79bc4b7fdf7fdd3dfcb[0m
+[32m2022-06-11 11:30:15.107[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:30:21.723[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container d0a6d23e16c84ecb98bd508c44b6a5bff8f0d3021e1dc79bc4b7fdf7fdd3dfcb[0m
+[32m2022-06-11 11:30:22.311[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5103 with id 740c0dea6618846e5c77ab0286767f13af8e8638faca3b28ac23a63e9b2774b7[0m
+[32m2022-06-11 11:30:22.311[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:30:28.931[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 740c0dea6618846e5c77ab0286767f13af8e8638faca3b28ac23a63e9b2774b7[0m
+[32m2022-06-11 11:30:29.455[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5836 with id 8489926605b0e8f4a5415c11cc046fca5933f66ae1f92258fdd33fdfc3c627a1[0m
+[32m2022-06-11 11:30:29.456[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:30:36.231[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 8489926605b0e8f4a5415c11cc046fca5933f66ae1f92258fdd33fdfc3c627a1[0m
+[32m2022-06-11 11:30:36.928[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5340 with id b529c4a41f90eeca388140ec24d5094acd3d2d77c1d5e39e8ee564330e1e4e32[0m
+[32m2022-06-11 11:30:36.928[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:30:43.543[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container b529c4a41f90eeca388140ec24d5094acd3d2d77c1d5e39e8ee564330e1e4e32[0m
+[32m2022-06-11 11:30:44.068[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5182 with id 9f30a63612b21512784fa8c1d135eebff10550e4fc630f321d513452bb3d4486[0m
+[32m2022-06-11 11:30:44.068[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:30:50.635[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 9f30a63612b21512784fa8c1d135eebff10550e4fc630f321d513452bb3d4486[0m
+[32m2022-06-11 11:30:51.278[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5606 with id d277ac2e733ca5e2bb41113764fb6737a46ad1fe25f1cca89d9e35a2e9f4530c[0m
+[32m2022-06-11 11:30:51.279[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:30:57.878[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container d277ac2e733ca5e2bb41113764fb6737a46ad1fe25f1cca89d9e35a2e9f4530c[0m
+[32m2022-06-11 11:30:58.437[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5629 with id ca593ef00834080e96e09a836e8fdf12aeeaf87a5cdf71436690da166f526496[0m
+[32m2022-06-11 11:30:58.437[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:31:04.998[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container ca593ef00834080e96e09a836e8fdf12aeeaf87a5cdf71436690da166f526496[0m
+[32m2022-06-11 11:31:05.487[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5642 with id c49c73194a509f852a184d43a6db6bfd2bce55bd79813c5ff61c4216a64c1099[0m
+[32m2022-06-11 11:31:05.488[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:31:12.060[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container c49c73194a509f852a184d43a6db6bfd2bce55bd79813c5ff61c4216a64c1099[0m
+[32m2022-06-11 11:31:12.646[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5250 with id 876eaa8a4d31d48d11278c7f1df4be464ac8888a0e7ff2f57bc5a4d44425a4f1[0m
+[32m2022-06-11 11:31:12.646[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:31:19.222[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 876eaa8a4d31d48d11278c7f1df4be464ac8888a0e7ff2f57bc5a4d44425a4f1[0m
+[32m2022-06-11 11:31:19.782[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5860 with id 96e2ff185e918e20222f73153165c2b512f65f9669587626edfd493d3c43a597[0m
+[32m2022-06-11 11:31:19.783[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:31:26.385[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 96e2ff185e918e20222f73153165c2b512f65f9669587626edfd493d3c43a597[0m
+[32m2022-06-11 11:31:26.980[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5679 with id c50e7f52f8ca9ad1245e7d43c4a3e90c673f75edcb83a265900bb2c18c9930b5[0m
+[32m2022-06-11 11:31:26.981[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:31:33.588[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container c50e7f52f8ca9ad1245e7d43c4a3e90c673f75edcb83a265900bb2c18c9930b5[0m
+[32m2022-06-11 11:31:34.174[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5670 with id 67730bb478c3d87dfc0f31b8fedf1571dec68593f33d92043d3b11de91313f7c[0m
+[32m2022-06-11 11:31:34.175[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:31:40.809[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 67730bb478c3d87dfc0f31b8fedf1571dec68593f33d92043d3b11de91313f7c[0m
+[32m2022-06-11 11:31:41.379[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5386 with id 48f64960d255a569bd08760ba8e7910054fec57662a15a1603a7eeb13751821f[0m
+[32m2022-06-11 11:31:41.380[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:31:48.007[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 48f64960d255a569bd08760ba8e7910054fec57662a15a1603a7eeb13751821f[0m
+[32m2022-06-11 11:31:48.532[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5993 with id cde243b165d649c820b55174e5957a3a8c5612b3f1000f005cf2e3340fba568f[0m
+[32m2022-06-11 11:31:48.533[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:31:55.101[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container cde243b165d649c820b55174e5957a3a8c5612b3f1000f005cf2e3340fba568f[0m
+[32m2022-06-11 11:31:55.647[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5528 with id 513d156727992ab87e6fbf4347364144cf4bddf96f7cdd3561b5c356ec3197b8[0m
+[32m2022-06-11 11:31:55.648[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:32:02.243[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 513d156727992ab87e6fbf4347364144cf4bddf96f7cdd3561b5c356ec3197b8[0m
+[32m2022-06-11 11:32:02.765[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5578 with id 197207359c7d187aba157d116f3cf8c77a4a575ef27e4dd366075e05d0fe4d6d[0m
+[32m2022-06-11 11:32:02.765[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:32:09.312[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 197207359c7d187aba157d116f3cf8c77a4a575ef27e4dd366075e05d0fe4d6d[0m
+[32m2022-06-11 11:32:09.796[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5390 with id 76ca74da59013880b7e3a00885bd88523a35e3e250f9a2901893df64c0a06cdc[0m
+[32m2022-06-11 11:32:09.797[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:32:16.375[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 76ca74da59013880b7e3a00885bd88523a35e3e250f9a2901893df64c0a06cdc[0m
+[32m2022-06-11 11:32:16.917[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5304 with id 7e3a4369befec181020b58c45e55b126b512ae2171d552d8fbe8a5e4e04fca7f[0m
+[32m2022-06-11 11:32:16.917[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:32:23.501[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7e3a4369befec181020b58c45e55b126b512ae2171d552d8fbe8a5e4e04fca7f[0m
+[32m2022-06-11 11:32:24.077[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5408 with id 048b40289d66a2df449b787128337b110cdd7812e49981c2a2620bef7f4f5eb8[0m
+[32m2022-06-11 11:32:24.077[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:32:30.680[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 048b40289d66a2df449b787128337b110cdd7812e49981c2a2620bef7f4f5eb8[0m
+[32m2022-06-11 11:32:31.222[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5839 with id 0b671f7bb48b2b0ebeb94b29450fd70606664448541e293cc625f148ddda045b[0m
+[32m2022-06-11 11:32:31.223[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:32:37.845[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 0b671f7bb48b2b0ebeb94b29450fd70606664448541e293cc625f148ddda045b[0m
+[32m2022-06-11 11:32:38.348[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5684 with id 0f338ae148088b315aa967d57a4cd8aa5310152726bb00cb8c81f56cc27f50f0[0m
+[32m2022-06-11 11:32:38.349[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:32:44.963[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 0f338ae148088b315aa967d57a4cd8aa5310152726bb00cb8c81f56cc27f50f0[0m
+[32m2022-06-11 11:32:45.535[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5609 with id 22db1ca75f29fd37335c2f20ac0d6862796c0a2b7f53afbfcc29201a1c8db875[0m
+[32m2022-06-11 11:32:45.535[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:32:52.154[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 22db1ca75f29fd37335c2f20ac0d6862796c0a2b7f53afbfcc29201a1c8db875[0m
+[32m2022-06-11 11:32:52.673[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5928 with id 03fb96781672b35b772ec76caa84944d07d8cb9561d836479642f7f69f16e60c[0m
+[32m2022-06-11 11:32:52.673[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:32:59.266[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 03fb96781672b35b772ec76caa84944d07d8cb9561d836479642f7f69f16e60c[0m
+[32m2022-06-11 11:32:59.787[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5269 with id a2889f41823f4ffd13c9f9d5229915852ade78bea531307caa8a1261a8b8b24c[0m
+[32m2022-06-11 11:32:59.787[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:33:06.381[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container a2889f41823f4ffd13c9f9d5229915852ade78bea531307caa8a1261a8b8b24c[0m
+[32m2022-06-11 11:33:06.834[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5337 with id 6d6ca812ecae22d4b8c943de0ea82eef208c61a5eb41b955950ea5af938c85d4[0m
+[32m2022-06-11 11:33:06.834[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:33:13.453[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 6d6ca812ecae22d4b8c943de0ea82eef208c61a5eb41b955950ea5af938c85d4[0m
+[32m2022-06-11 11:33:14.012[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5430 with id 67ec6ce4a13fa458fcb22b343c7dbf4935322978bd5ab81f567e8980a26f2088[0m
+[32m2022-06-11 11:33:14.012[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:33:20.544[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 67ec6ce4a13fa458fcb22b343c7dbf4935322978bd5ab81f567e8980a26f2088[0m
+[32m2022-06-11 11:33:21.023[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5386 with id c7ccdf28d6e0ad41fa3ccc6e2ae66af7b67b4c2506e0ed791b372f8a1b262a06[0m
+[32m2022-06-11 11:33:21.024[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:33:27.802[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container c7ccdf28d6e0ad41fa3ccc6e2ae66af7b67b4c2506e0ed791b372f8a1b262a06[0m
+[32m2022-06-11 11:33:28.446[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5408 with id 7eed103d5e099671a78c9cd440d2545b14c8ad7d4299be123d7db2df91332ea6[0m
+[32m2022-06-11 11:33:28.446[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:33:35.056[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7eed103d5e099671a78c9cd440d2545b14c8ad7d4299be123d7db2df91332ea6[0m
+[32m2022-06-11 11:33:35.565[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5646 with id e4cb7636273aaec739ac852cf455c74b6dc87f7d080e47c1073bc4eee25fc9de[0m
+[32m2022-06-11 11:33:35.565[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:33:42.196[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container e4cb7636273aaec739ac852cf455c74b6dc87f7d080e47c1073bc4eee25fc9de[0m
+[32m2022-06-11 11:33:42.731[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5468 with id 7d6b559e5f38d8152546069072b1ca0e2a7ccafbdfdadb19482c13a99b4e2331[0m
+[32m2022-06-11 11:33:42.731[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:33:49.310[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7d6b559e5f38d8152546069072b1ca0e2a7ccafbdfdadb19482c13a99b4e2331[0m
+[32m2022-06-11 11:33:49.839[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5534 with id 8016f5ee9efa93cdfab564b129ba6ea50cc469f8296d9c929860bb90771546d4[0m
+[32m2022-06-11 11:33:49.839[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:33:56.433[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 8016f5ee9efa93cdfab564b129ba6ea50cc469f8296d9c929860bb90771546d4[0m
+[32m2022-06-11 11:33:56.989[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5770 with id 1de92af1af8078edfb65c9b20fc3fd096618763b6c1977ac6b354909b39ca7fd[0m
+[32m2022-06-11 11:33:56.989[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:34:03.593[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 1de92af1af8078edfb65c9b20fc3fd096618763b6c1977ac6b354909b39ca7fd[0m
+[32m2022-06-11 11:34:04.086[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5208 with id 17d05f56a2b27b3ddb96218d1a39427ea92ff883d63d402224e4471d83a6d1fc[0m
+[32m2022-06-11 11:34:04.086[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:34:10.649[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 17d05f56a2b27b3ddb96218d1a39427ea92ff883d63d402224e4471d83a6d1fc[0m
+[32m2022-06-11 11:34:11.195[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5627 with id 210d75a445d2250352d23f509c47530be09979f67728b3fcb21cc4f6b84ffe66[0m
+[32m2022-06-11 11:34:11.196[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:34:17.770[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 210d75a445d2250352d23f509c47530be09979f67728b3fcb21cc4f6b84ffe66[0m
+[32m2022-06-11 11:34:18.273[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5862 with id 1f7c56983a7a351fb084356252f19710ce090ba7a0bf38d96c4e3ac60ce88446[0m
+[32m2022-06-11 11:34:18.273[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:34:24.876[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 1f7c56983a7a351fb084356252f19710ce090ba7a0bf38d96c4e3ac60ce88446[0m
+[32m2022-06-11 11:34:25.416[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5892 with id 309c9ba44e84bae4d900bbebe94d1416e26098e58b107c92f328529ffcccc007[0m
+[32m2022-06-11 11:34:25.417[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:34:31.998[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 309c9ba44e84bae4d900bbebe94d1416e26098e58b107c92f328529ffcccc007[0m
+[32m2022-06-11 11:34:32.569[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5053 with id e18251a1c5658ee8185b8339fa5725bf1cc21f8f3812d01e35b5fa69c67cd9ec[0m
+[32m2022-06-11 11:34:32.570[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:34:39.178[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container e18251a1c5658ee8185b8339fa5725bf1cc21f8f3812d01e35b5fa69c67cd9ec[0m
+[32m2022-06-11 11:34:39.693[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5238 with id 9cba91f6d7d754c0edc2862ef39ed6b6bd6c463e64507ee5220ce3b36a6102f3[0m
+[32m2022-06-11 11:34:39.693[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:34:46.294[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 9cba91f6d7d754c0edc2862ef39ed6b6bd6c463e64507ee5220ce3b36a6102f3[0m
+[32m2022-06-11 11:34:46.777[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5028 with id ae84021d0d002677d08ace28cb766f2d7ba4b724ea4a60d16a6376908c6028ea[0m
+[32m2022-06-11 11:34:46.777[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:34:53.413[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container ae84021d0d002677d08ace28cb766f2d7ba4b724ea4a60d16a6376908c6028ea[0m
+[32m2022-06-11 11:34:53.967[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5074 with id 21bc36c67490f180af28804f38cf055f31a86cbcea92eb325c57834e891678bd[0m
+[32m2022-06-11 11:34:53.968[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:35:00.544[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 21bc36c67490f180af28804f38cf055f31a86cbcea92eb325c57834e891678bd[0m
+[32m2022-06-11 11:35:01.080[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5098 with id 6422b96ce0fe113d093e4aa4aab59d3a2cc6000d725dc8a7d68c5208cd86c1a2[0m
+[32m2022-06-11 11:35:01.081[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:35:07.650[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 6422b96ce0fe113d093e4aa4aab59d3a2cc6000d725dc8a7d68c5208cd86c1a2[0m
+[32m2022-06-11 11:35:08.223[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5059 with id 4abeb6575dbaa76e0bcb7b038ffb35f09bc65c6695af583ceea27a99f3777109[0m
+[32m2022-06-11 11:35:08.224[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:35:14.834[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 4abeb6575dbaa76e0bcb7b038ffb35f09bc65c6695af583ceea27a99f3777109[0m
+[32m2022-06-11 11:35:15.366[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5107 with id 9d34a96c94c3c5585eff6862a5ab1349ab64a0173c87b690c9cd50b8d4148b5a[0m
+[32m2022-06-11 11:35:15.366[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:35:21.916[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 9d34a96c94c3c5585eff6862a5ab1349ab64a0173c87b690c9cd50b8d4148b5a[0m
+[32m2022-06-11 11:35:22.513[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5602 with id e2d50f2ddebb11fecbc9d03ca5c2e48f0882dfe18514daf86ad47ed1a9b840c8[0m
+[32m2022-06-11 11:35:22.514[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:35:29.062[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container e2d50f2ddebb11fecbc9d03ca5c2e48f0882dfe18514daf86ad47ed1a9b840c8[0m
+[32m2022-06-11 11:35:29.596[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5665 with id 9a610782be15aa2d1c5ef20988efb316191c1c8a8bea033ab6eda00a8da9be88[0m
+[32m2022-06-11 11:35:29.596[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:35:36.185[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 9a610782be15aa2d1c5ef20988efb316191c1c8a8bea033ab6eda00a8da9be88[0m
+[32m2022-06-11 11:35:36.806[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5928 with id 9db0c605b46ac73a4f02fe5eb5cb718e1a69ab1e92e712a7d0c34bfbc985665c[0m
+[32m2022-06-11 11:35:36.807[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:35:43.443[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 9db0c605b46ac73a4f02fe5eb5cb718e1a69ab1e92e712a7d0c34bfbc985665c[0m
+[32m2022-06-11 11:35:43.986[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5590 with id 997610ab5863bc74deb00f3f32749344ba5933ab55a608646da6563d2900d415[0m
+[32m2022-06-11 11:35:43.986[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:35:50.571[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 997610ab5863bc74deb00f3f32749344ba5933ab55a608646da6563d2900d415[0m
+[32m2022-06-11 11:35:51.092[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5702 with id c4971e20a4e657a56f66c500c4541298ffc7d35ecccbaba311aba2ed06f25a47[0m
+[32m2022-06-11 11:35:51.092[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:35:57.670[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container c4971e20a4e657a56f66c500c4541298ffc7d35ecccbaba311aba2ed06f25a47[0m
+[32m2022-06-11 11:35:58.254[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5781 with id df7aa59ea749c1183e63874f5393bb597926b8b80ca88458ccebae393dbba652[0m
+[32m2022-06-11 11:35:58.254[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:36:04.808[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container df7aa59ea749c1183e63874f5393bb597926b8b80ca88458ccebae393dbba652[0m
+[32m2022-06-11 11:36:05.309[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5459 with id d52e491f9d15e968fd566f38520759e6ebd078fddabbaf2e6d0817181715e1da[0m
+[32m2022-06-11 11:36:05.310[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:36:11.936[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container d52e491f9d15e968fd566f38520759e6ebd078fddabbaf2e6d0817181715e1da[0m
+[32m2022-06-11 11:36:12.490[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5518 with id e03bf5f96dd0e7a7a50e2e6dd0b89cb393a3897d469d83248a18ac425e632df7[0m
+[32m2022-06-11 11:36:12.491[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:36:19.059[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container e03bf5f96dd0e7a7a50e2e6dd0b89cb393a3897d469d83248a18ac425e632df7[0m
+[32m2022-06-11 11:36:19.640[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5120 with id 088595aaad5f1cb178e97254b756eea2ad613043fc411c0a498abf1a172a7db0[0m
+[32m2022-06-11 11:36:19.640[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:36:26.255[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 088595aaad5f1cb178e97254b756eea2ad613043fc411c0a498abf1a172a7db0[0m
+[32m2022-06-11 11:36:26.820[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5051 with id e51b7bd311bfbaeb29df512939ad19b9bea3236c20b45b5ee58aee2f814d9ff7[0m
+[32m2022-06-11 11:36:26.821[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:36:33.380[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container e51b7bd311bfbaeb29df512939ad19b9bea3236c20b45b5ee58aee2f814d9ff7[0m
+[32m2022-06-11 11:36:33.936[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5696 with id aad4819f68b9e1b85194b3d89717d910349009a79fdfde9069a0748295cdd371[0m
+[32m2022-06-11 11:36:33.937[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:36:40.538[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container aad4819f68b9e1b85194b3d89717d910349009a79fdfde9069a0748295cdd371[0m
+[32m2022-06-11 11:36:41.110[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5658 with id c85747277fd3fdff0f1ce4f9e050f360364831d75b6b987a2d5e0fe5e48fdeb1[0m
+[32m2022-06-11 11:36:41.110[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:36:47.686[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container c85747277fd3fdff0f1ce4f9e050f360364831d75b6b987a2d5e0fe5e48fdeb1[0m
+[32m2022-06-11 11:36:48.281[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5216 with id 7c8d4b0cac67960ab010ce81c41872f70f36160b9d35ca6da3ddfdbdb6a75fc3[0m
+[32m2022-06-11 11:36:48.282[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:36:54.881[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7c8d4b0cac67960ab010ce81c41872f70f36160b9d35ca6da3ddfdbdb6a75fc3[0m
+[32m2022-06-11 11:36:55.404[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5658 with id 3863f12555b454a7243326aef0856a4a4fef658ac46b19f9de9c1701ca17bbee[0m
+[32m2022-06-11 11:36:55.404[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:37:02.022[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 3863f12555b454a7243326aef0856a4a4fef658ac46b19f9de9c1701ca17bbee[0m
+[32m2022-06-11 11:37:02.563[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5192 with id 13fd67898059d04b572cbe963229ceb224cfc97fa6f48756bcd9d753b0d0f762[0m
+[32m2022-06-11 11:37:02.564[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:37:09.220[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 13fd67898059d04b572cbe963229ceb224cfc97fa6f48756bcd9d753b0d0f762[0m
+[32m2022-06-11 11:37:09.738[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5768 with id c3d27f3d56bcb537b7469224cffb36076f09abed3c2f7459856a0cf13ff7fbd1[0m
+[32m2022-06-11 11:37:09.739[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:37:16.362[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container c3d27f3d56bcb537b7469224cffb36076f09abed3c2f7459856a0cf13ff7fbd1[0m
+[32m2022-06-11 11:37:16.939[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5567 with id 6c50bf35ba0e4438cef5dc3d332fe8a641bea5d1ec7cf16401fea79a3cda524b[0m
+[32m2022-06-11 11:37:16.939[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:37:23.666[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 6c50bf35ba0e4438cef5dc3d332fe8a641bea5d1ec7cf16401fea79a3cda524b[0m
+[32m2022-06-11 11:37:24.335[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5628 with id 1ef94a380f354cf5753d61c8aa8a140e1e3812d2addab23fc15df6f18ae88f4e[0m
+[32m2022-06-11 11:37:24.335[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:37:30.920[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 1ef94a380f354cf5753d61c8aa8a140e1e3812d2addab23fc15df6f18ae88f4e[0m
+[32m2022-06-11 11:37:31.495[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5952 with id ad5dd715ac9730bd54575a1b7b35a0cb8e6edffabcb7f05352a8ca13306cbfff[0m
+[32m2022-06-11 11:37:31.495[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:37:38.100[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container ad5dd715ac9730bd54575a1b7b35a0cb8e6edffabcb7f05352a8ca13306cbfff[0m
+[32m2022-06-11 11:37:38.728[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5295 with id a5c49b35485a08b0b3763dea0a72b29cc79e82672e93cd525492c375d807095b[0m
+[32m2022-06-11 11:37:38.729[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:37:45.320[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container a5c49b35485a08b0b3763dea0a72b29cc79e82672e93cd525492c375d807095b[0m
+[32m2022-06-11 11:37:45.876[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5952 with id 3d5785994a0696d9ce7eb93069cd75fba6931471bef7b479c8f0055f20a83759[0m
+[32m2022-06-11 11:37:45.876[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:37:52.480[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 3d5785994a0696d9ce7eb93069cd75fba6931471bef7b479c8f0055f20a83759[0m
+[32m2022-06-11 11:37:53.020[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5540 with id 31c2309de26f4c9174b230c38e1fada75f5227b110af360cee2486f830ef7366[0m
+[32m2022-06-11 11:37:53.021[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:37:59.650[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 31c2309de26f4c9174b230c38e1fada75f5227b110af360cee2486f830ef7366[0m
+[32m2022-06-11 11:38:00.225[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5915 with id 5fe0efecc954cd4b921b3f8fd19ba8127d4de14400638e4da873d8c16473188b[0m
+[32m2022-06-11 11:38:00.225[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:38:06.794[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 5fe0efecc954cd4b921b3f8fd19ba8127d4de14400638e4da873d8c16473188b[0m
+[32m2022-06-11 11:38:07.339[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5724 with id dc0b9e82af816bf9a52ba3dc96f07f4582b3328f2fa45dbf288ec4f9b510f475[0m
+[32m2022-06-11 11:38:07.339[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:38:13.938[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container dc0b9e82af816bf9a52ba3dc96f07f4582b3328f2fa45dbf288ec4f9b510f475[0m
+[32m2022-06-11 11:38:14.514[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5760 with id a080ab2b520e7fb69caac3ad90606dc2e528ef5bbc3689b48629185a5a807586[0m
+[32m2022-06-11 11:38:14.515[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:38:21.098[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container a080ab2b520e7fb69caac3ad90606dc2e528ef5bbc3689b48629185a5a807586[0m
+[32m2022-06-11 11:38:21.562[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5659 with id 7a1c5e58fbde2a3f01d00c693e6a0f4d4e1620f54443f1c490d11a143ebc571f[0m
+[32m2022-06-11 11:38:21.562[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:38:28.126[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7a1c5e58fbde2a3f01d00c693e6a0f4d4e1620f54443f1c490d11a143ebc571f[0m
+[32m2022-06-11 11:38:28.653[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5540 with id 10a4efc82b1d02582eea08dc946029bb8b9676f100738c44bc0e32684b4f2a98[0m
+[32m2022-06-11 11:38:28.653[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:38:35.219[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 10a4efc82b1d02582eea08dc946029bb8b9676f100738c44bc0e32684b4f2a98[0m
+[32m2022-06-11 11:38:35.744[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5350 with id 8531d8b78b97d7bde263d75b72b46b05f6c1c687d6fe085635c2f943466288c9[0m
+[32m2022-06-11 11:38:35.744[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:38:42.342[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 8531d8b78b97d7bde263d75b72b46b05f6c1c687d6fe085635c2f943466288c9[0m
+[32m2022-06-11 11:38:42.933[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5638 with id 7386b51f23689ee4f82b21e764f6f98a32d8a7ed5cfa5bca71b659fabd53cfcc[0m
+[32m2022-06-11 11:38:42.934[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:38:49.685[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7386b51f23689ee4f82b21e764f6f98a32d8a7ed5cfa5bca71b659fabd53cfcc[0m
+[32m2022-06-11 11:38:50.198[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5185 with id 8a5b59de42ffba217ed2a6a93c0ccfbe549522f24bcbc630d53036b2ec5a2566[0m
+[32m2022-06-11 11:38:50.199[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:38:56.826[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 8a5b59de42ffba217ed2a6a93c0ccfbe549522f24bcbc630d53036b2ec5a2566[0m
+[32m2022-06-11 11:38:57.404[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5740 with id 99014123548f690d13a1e1925449333f8bea66ebf26d82cf4f0113bba76bb2a2[0m
+[32m2022-06-11 11:38:57.404[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:39:04.050[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 99014123548f690d13a1e1925449333f8bea66ebf26d82cf4f0113bba76bb2a2[0m
+[32m2022-06-11 11:39:04.515[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5521 with id 8e92ce3f3f6bbc6bcf6fc61a4524df1c5c1106a457c5510c7c0c3d25b7b0bde8[0m
+[32m2022-06-11 11:39:04.515[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:39:11.099[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 8e92ce3f3f6bbc6bcf6fc61a4524df1c5c1106a457c5510c7c0c3d25b7b0bde8[0m
+[32m2022-06-11 11:39:11.628[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5665 with id b0f372dc7ba19ce45b58088a86d3cac160d5fd74f30c1236d29177b5ed5f8d5a[0m
+[32m2022-06-11 11:39:11.628[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:39:18.226[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container b0f372dc7ba19ce45b58088a86d3cac160d5fd74f30c1236d29177b5ed5f8d5a[0m
+[32m2022-06-11 11:39:18.784[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5303 with id 6d9cb588f3dde9cb8ffb1f991d519f256ffddd839398b8a6f544e63da5f4b3be[0m
+[32m2022-06-11 11:39:18.785[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:39:25.350[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 6d9cb588f3dde9cb8ffb1f991d519f256ffddd839398b8a6f544e63da5f4b3be[0m
+[32m2022-06-11 11:39:25.828[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5818 with id a185320383ce2bdcac8b3166936284849267e77ff6b38e658beddcfdd0b24515[0m
+[32m2022-06-11 11:39:25.828[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:39:32.457[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container a185320383ce2bdcac8b3166936284849267e77ff6b38e658beddcfdd0b24515[0m
+[32m2022-06-11 11:39:32.984[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5105 with id 123d0a0b47c4aae6b2a04a3f064f2503aecb8b4d37da220c2e9f94ead551a651[0m
+[32m2022-06-11 11:39:32.985[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:39:39.646[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 123d0a0b47c4aae6b2a04a3f064f2503aecb8b4d37da220c2e9f94ead551a651[0m
+[32m2022-06-11 11:39:40.144[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5242 with id 359beba860e2233f4cb926e7fc3c746f28dadda44e3b2c49384e4703b535e8d6[0m
+[32m2022-06-11 11:39:40.145[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:39:46.768[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 359beba860e2233f4cb926e7fc3c746f28dadda44e3b2c49384e4703b535e8d6[0m
+[32m2022-06-11 11:39:47.448[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5788 with id a7c7d3ab812801a2073932bbd8689d36918048d56be43bca2c4ec629c48c543a[0m
+[32m2022-06-11 11:39:47.449[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:39:54.069[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container a7c7d3ab812801a2073932bbd8689d36918048d56be43bca2c4ec629c48c543a[0m
+[32m2022-06-11 11:39:54.644[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5627 with id 2a50c6caffa2ba18a016aa14027946ee913954a569d5834159accb7d2d429a85[0m
+[32m2022-06-11 11:39:54.645[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:40:01.308[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 2a50c6caffa2ba18a016aa14027946ee913954a569d5834159accb7d2d429a85[0m
+[32m2022-06-11 11:40:01.900[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5287 with id b57e99153f5897db22a2afe465001bbb02f65552518fe623a3ee1fa5ec666dad[0m
+[32m2022-06-11 11:40:01.901[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:40:08.502[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container b57e99153f5897db22a2afe465001bbb02f65552518fe623a3ee1fa5ec666dad[0m
+[32m2022-06-11 11:40:09.077[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5111 with id a9723f81ac359dce1e383897b9cf0d6ecc432f1859394d91e87d2674668009c3[0m
+[32m2022-06-11 11:40:09.077[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:40:15.707[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container a9723f81ac359dce1e383897b9cf0d6ecc432f1859394d91e87d2674668009c3[0m
+[32m2022-06-11 11:40:16.167[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5389 with id 58f2ae5af6617d63ca8f6889cecac553d67643d021c61851976ca9403ab22167[0m
+[32m2022-06-11 11:40:16.167[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:40:22.794[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 58f2ae5af6617d63ca8f6889cecac553d67643d021c61851976ca9403ab22167[0m
+[32m2022-06-11 11:40:23.422[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5191 with id bf0a5b30afdaac16d6dcbb53cd0310a0898f69bd20751f88fe5216fb2f98044e[0m
+[32m2022-06-11 11:40:23.422[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:40:30.021[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container bf0a5b30afdaac16d6dcbb53cd0310a0898f69bd20751f88fe5216fb2f98044e[0m
+[32m2022-06-11 11:40:30.542[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5236 with id 7622e918f647329592b457f56123b9de683f663b6022ccf2886efe1d73a7e3ca[0m
+[32m2022-06-11 11:40:30.543[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:40:37.177[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 7622e918f647329592b457f56123b9de683f663b6022ccf2886efe1d73a7e3ca[0m
+[32m2022-06-11 11:40:37.809[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5664 with id b8d9fff65b09c6bb79255615288711682722d52c7b254466921e8f794d95baf4[0m
+[32m2022-06-11 11:40:37.810[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:40:44.428[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container b8d9fff65b09c6bb79255615288711682722d52c7b254466921e8f794d95baf4[0m
+[32m2022-06-11 11:40:45.015[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5814 with id dbb1f4eb56320bb070b6603caad094fd869b813e478c63e8bf7eb7209d7bcabd[0m
+[32m2022-06-11 11:40:45.016[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:40:51.643[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container dbb1f4eb56320bb070b6603caad094fd869b813e478c63e8bf7eb7209d7bcabd[0m
+[32m2022-06-11 11:40:52.216[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5290 with id e7e732ca45ee6d9d1cae359593d04cd272bda64d6122c738dcc6ea42529c6be0[0m
+[32m2022-06-11 11:40:52.216[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:40:58.846[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container e7e732ca45ee6d9d1cae359593d04cd272bda64d6122c738dcc6ea42529c6be0[0m
+[32m2022-06-11 11:40:59.421[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5653 with id e04cc0f3a998b26bba47222ce824cdf2ea81a6f771888c6768eb488f6a117108[0m
+[32m2022-06-11 11:40:59.421[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:41:06.041[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container e04cc0f3a998b26bba47222ce824cdf2ea81a6f771888c6768eb488f6a117108[0m
+[32m2022-06-11 11:41:06.642[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5157 with id eddedd4bcc61acabe826df31d1986af933ee16de02f0d01cc1fe21e2655188d8[0m
+[32m2022-06-11 11:41:06.643[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:41:13.266[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container eddedd4bcc61acabe826df31d1986af933ee16de02f0d01cc1fe21e2655188d8[0m
+[32m2022-06-11 11:41:13.889[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5525 with id d1826c8835b4d33b5fbf2bac8518d4c3060f44f3e0e31d3febf1fa5f7738cf65[0m
+[32m2022-06-11 11:41:13.889[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:41:20.486[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container d1826c8835b4d33b5fbf2bac8518d4c3060f44f3e0e31d3febf1fa5f7738cf65[0m
+[32m2022-06-11 11:41:21.103[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5184 with id ad97958dd669a1defde2daef191ff0ce38d1a4b22abbdd4218a8cb7e37102b9c[0m
+[32m2022-06-11 11:41:21.103[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:41:27.658[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container ad97958dd669a1defde2daef191ff0ce38d1a4b22abbdd4218a8cb7e37102b9c[0m
+[32m2022-06-11 11:41:28.228[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5035 with id b2fc6785e807d4651eeba63be9ac723ce3bf9584fe0087cb1efd936e5c376ddc[0m
+[32m2022-06-11 11:41:28.228[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:41:34.825[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container b2fc6785e807d4651eeba63be9ac723ce3bf9584fe0087cb1efd936e5c376ddc[0m
+[32m2022-06-11 11:41:35.420[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5117 with id f20e2c4a05b545e91d2f1465f5ab9a50398bc51ae61a405a416e514939cd2e05[0m
+[32m2022-06-11 11:41:35.421[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:41:42.056[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container f20e2c4a05b545e91d2f1465f5ab9a50398bc51ae61a405a416e514939cd2e05[0m
+[32m2022-06-11 11:41:42.971[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5701 with id 46543a50040626da8608267ed5356ed8714349ea05a1a345a5859772cc15dc54[0m
+[32m2022-06-11 11:41:42.972[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:41:49.579[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 46543a50040626da8608267ed5356ed8714349ea05a1a345a5859772cc15dc54[0m
+[32m2022-06-11 11:41:50.137[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5378 with id dbb448059cdb75a0f98bfe40df348c154e0fbd86c107fdb0cd5b7630343f7af4[0m
+[32m2022-06-11 11:41:50.138[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:41:56.745[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container dbb448059cdb75a0f98bfe40df348c154e0fbd86c107fdb0cd5b7630343f7af4[0m
+[32m2022-06-11 11:41:57.288[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5670 with id 3aa410e328d27f071f6dd89918e97bd3ce4b923ba3e3de8aa2e8e8e18b437a7a[0m
+[32m2022-06-11 11:41:57.288[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:42:03.900[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 3aa410e328d27f071f6dd89918e97bd3ce4b923ba3e3de8aa2e8e8e18b437a7a[0m
+[32m2022-06-11 11:42:04.437[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5160 with id c93c2f5d00bdd81f2304bf76df6a95a80450e85ffa76913efac0e531d5dc1815[0m
+[32m2022-06-11 11:42:04.438[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:42:11.061[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container c93c2f5d00bdd81f2304bf76df6a95a80450e85ffa76913efac0e531d5dc1815[0m
+[32m2022-06-11 11:42:11.670[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5459 with id 23fddbff19ad5408d514cb1916c14143f80553949eab8d7f3e033d950154688e[0m
+[32m2022-06-11 11:42:11.670[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:42:18.291[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 23fddbff19ad5408d514cb1916c14143f80553949eab8d7f3e033d950154688e[0m
+[32m2022-06-11 11:42:18.883[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5547 with id b871fdf78bf6e2cfe6a214da0db6ebbad72f432e6cca7ce12a0106f9eabb4ee9[0m
+[32m2022-06-11 11:42:18.884[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:42:21.914[0m | [1mINFO    [0m | [36m__main__[0m:[36msignal_handler[0m:[36m29[0m - [1mCleaning containers...[0m
+[32m2022-06-11 11:43:25.556[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5441 with id 62a973e2bf004ee769b23842dd8b3eb6d36a0e10cc3a4407083f38e649427457[0m
+[32m2022-06-11 11:43:25.556[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:43:31.968[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m25[0m - [32m[1mDeleted container 62a973e2bf004ee769b23842dd8b3eb6d36a0e10cc3a4407083f38e649427457[0m
+[32m2022-06-11 11:43:32.444[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m20[0m - [32m[1mContainer exposed on port 5566 with id 3ba95b8bb7e21b8884d3dd8c29f163bfe8d73fd9a4ecf231080b14f551049846[0m
+[32m2022-06-11 11:43:32.445[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m22[0m - [32m[1mConfig at ./exposed_container.json has been updated[0m
+[32m2022-06-11 11:43:34.681[0m | [1mINFO    [0m | [36m__main__[0m:[36msignal_handler[0m:[36m29[0m - [1mCleaning containers...[0m
