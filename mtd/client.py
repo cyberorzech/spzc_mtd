@@ -5,7 +5,7 @@ from json import load
 
 from src.logger import initialize_logger
 
-SLEEP_INTERVAL = 10
+SLEEP_INTERVAL = 0
 CONFIG_PATH = "./exposed_container.json"
 LOG_FILENAME = "client_logs.log"
 
@@ -37,7 +37,7 @@ def measure_requests():
         else:
             failure_count += 1
         logger.success(f"{success_count=}, {failure_count=}")
-        # sleep(0.2)
+        sleep(SLEEP_INTERVAL)
 
 @logger.catch
 def measure_downtime():

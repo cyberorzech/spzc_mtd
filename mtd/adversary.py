@@ -33,8 +33,7 @@ def perform_trial_request(port):
 
 @logger.catch
 def perform_exploit():
-    for _ in trange(EXPLOIT_TIME):
-        sleep(1)
+    for _ in trange(EXPLOIT_TIME): sleep(EXPLOIT_TIME)
 
 LOG_FILENAME = "adversary_logs.log"
 PORTS_RANGE = [80, 100]
