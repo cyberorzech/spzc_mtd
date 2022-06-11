@@ -9,8 +9,13 @@ def create(image_name: str, exposed_port: int):
     return container_id
 
 @logger.catch
-def delete(container_id):
+def delete_container(container_id):
     docker.stop(container_id)
     
+@logger.catch
+def delete_active_containers():
+    active_containers = docker.ps()
+    docker.stop(*active_containers)
+
 if __name__ == "__main__":
     raise NotImplementedError("Use as package")
