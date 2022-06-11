@@ -1,0 +1,774 @@
+[32m2022-06-11 12:10:40.558[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m32[0m - [32m[1mopen_ports=[80][0m
+[32m2022-06-11 12:26:06.548[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m50[0m - [1mopen_ports=[80][0m
+[32m2022-06-11 12:26:06.551[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m63[0m - [32m[1mSo far so good. Performing exploit on port 80...[0m
+[32m2022-06-11 12:26:26.598[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m75[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:26:33.017[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m50[0m - [1mopen_ports=[80][0m
+[32m2022-06-11 12:26:33.019[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m63[0m - [32m[1mSo far so good. Performing exploit on port 80...[0m
+[32m2022-06-11 12:28:39.130[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:35.452[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:35.748[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:36.049[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:36.340[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:36.634[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:37.051[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:37.524[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:37.887[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:38.200[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:38.491[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:38.794[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:39.087[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:39.376[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:39.665[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:39.954[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:40.241[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:40.530[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:40.821[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:41.123[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:29:41.417[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:08.226[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:08.660[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:15.087[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[82][0m
+[32m2022-06-11 12:30:15.090[0m | [31m[1mERROR   [0m | [36m__main__[0m:[36mmain[0m:[36m57[0m - [31m[1mAn error has been caught in function 'main', process 'MainProcess' (265423), thread 'MainThread' (140463351867200):[0m
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       │    └ <function HTTPConnectionPool._make_request at 0x7fc02b6d77f0>
+                       └ <urllib3.connectionpool.HTTPConnectionPool object at 0x7fc02b015210>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+    │   └ <function raise_from at 0x7fc02bc73130>
+    └ <module 'urllib3.packages.six' from '/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/packages/six.py'>
+  File "<string>", line 3, in raise_from
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+                       │    └ <function HTTPConnection.getresponse at 0x7fc02bb7a050>
+                       └ <urllib3.connection.HTTPConnection object at 0x7fc02b0151b0>
+  File "/usr/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+    │        └ <function HTTPResponse.begin at 0x7fc02bb78430>
+    └ <http.client.HTTPResponse object at 0x7fc02b015270>
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+                              │    └ <function HTTPResponse._read_status at 0x7fc02bb783a0>
+                              └ <http.client.HTTPResponse object at 0x7fc02b015270>
+  File "/usr/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               │    │           └ 65536
+               │    └ None
+               └ <http.client.HTTPResponse object at 0x7fc02b015270>
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+           │    │               └ <memory at 0x7fc02b3171c0>
+           │    └ None
+           └ <socket.SocketIO object at 0x7fc02b015d80>
+
+[31m[1mConnectionResetError[0m:[1m [Errno 104] Connection reset by peer[0m
+
+
+[1mDuring handling of the above exception, another exception occurred:[0m
+
+
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+           │    └ <function HTTPConnectionPool.urlopen at 0x7fc02b6d7a30>
+           └ <urllib3.connectionpool.HTTPConnectionPool object at 0x7fc02b015210>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+              │       └ <function Retry.increment at 0x7fc02b63f370>
+              └ Retry(total=0, connect=None, read=False, redirect=None, status=None)
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+          │   │            │       │      └ <traceback object at 0x7fc02b577480>
+          │   │            │       └ ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+          │   │            └ ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+          │   └ <function reraise at 0x7fc02bc730a0>
+          └ <module 'urllib3.packages.six' from '/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/packages/six.py'>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+          │                    └ None
+          └ None
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       │    └ <function HTTPConnectionPool._make_request at 0x7fc02b6d77f0>
+                       └ <urllib3.connectionpool.HTTPConnectionPool object at 0x7fc02b015210>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+    │   └ <function raise_from at 0x7fc02bc73130>
+    └ <module 'urllib3.packages.six' from '/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/packages/six.py'>
+  File "<string>", line 3, in raise_from
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+                       │    └ <function HTTPConnection.getresponse at 0x7fc02bb7a050>
+                       └ <urllib3.connection.HTTPConnection object at 0x7fc02b0151b0>
+  File "/usr/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+    │        └ <function HTTPResponse.begin at 0x7fc02bb78430>
+    └ <http.client.HTTPResponse object at 0x7fc02b015270>
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+                              │    └ <function HTTPResponse._read_status at 0x7fc02bb783a0>
+                              └ <http.client.HTTPResponse object at 0x7fc02b015270>
+  File "/usr/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               │    │           └ 65536
+               │    └ None
+               └ <http.client.HTTPResponse object at 0x7fc02b015270>
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+           │    │               └ <memory at 0x7fc02b3171c0>
+           │    └ None
+           └ <socket.SocketIO object at 0x7fc02b015d80>
+
+[31m[1murllib3.exceptions.ProtocolError[0m:[1m ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))[0m
+
+
+[1mDuring handling of the above exception, another exception occurred:[0m
+
+
+[33m[1mTraceback (most recent call last):[0m
+
+  File "[32m/home/kali/Desktop/spzc/mtd/[0m[32m[1madversary.py[0m", line [33m86[0m, in [35m<module>[0m
+    [1mmain[0m[1m([0m[1m)[0m
+    [36m└ [0m[36m[1m<function main at 0x7fc02b00dc60>[0m
+
+> File "[32m/home/kali/Desktop/spzc/mtd/[0m[32m[1madversary.py[0m", line [33m57[0m, in [35mmain[0m
+    [1mresponse[0m [35m[1m=[0m [1mperform_trial_request[0m[1m([0m[1mopen_ports[0m[1m[[0m[34m[1m0[0m[1m][0m[1m)[0m
+    [36m           │                     └ [0m[36m[1m[82][0m
+    [36m           └ [0m[36m[1m<function perform_trial_request at 0x7fc02b00d630>[0m
+
+  File "[32m/home/kali/Desktop/spzc/mtd/[0m[32m[1madversary.py[0m", line [33m31[0m, in [35mperform_trial_request[0m
+    [1mresponse[0m [35m[1m=[0m [1mrequests[0m[35m[1m.[0m[1mget[0m[1m([0m[1murl[0m[1m)[0m
+    [36m           │        │   └ [0m[36m[1m'http://127.0.0.1:82'[0m
+    [36m           │        └ [0m[36m[1m<function get at 0x7fc02b267130>[0m
+    [36m           └ [0m[36m[1m<module 'requests' from '/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/__init__.py'>[0m
+
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           │              │           │         └ {}
+           │              │           └ None
+           │              └ 'http://127.0.0.1:82'
+           └ <function request at 0x7fc02b46d360>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           │       │              │           │      └ {'params': None}
+           │       │              │           └ 'http://127.0.0.1:82'
+           │       │              └ 'get'
+           │       └ <function Session.request at 0x7fc02b2668c0>
+           └ <requests.sessions.Session object at 0x7fc02b0142e0>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           │    │    │       └ {'timeout': None, 'allow_redirects': True, 'proxies': OrderedDict(), 'stream': False, 'verify': True, 'cert': None}
+           │    │    └ <PreparedRequest [GET]>
+           │    └ <function Session.send at 0x7fc02b266d40>
+           └ <requests.sessions.Session object at 0x7fc02b0142e0>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        │       │    │          └ {'timeout': None, 'proxies': OrderedDict(), 'stream': False, 'verify': True, 'cert': None}
+        │       │    └ <PreparedRequest [GET]>
+        │       └ <function HTTPAdapter.send at 0x7fc02b266200>
+        └ <requests.adapters.HTTPAdapter object at 0x7fc02b015d50>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/adapters.py", line 547, in send
+    raise ConnectionError(err, request=request)
+          │                            └ <PreparedRequest [GET]>
+          └ <class 'requests.exceptions.ConnectionError'>
+
+[31m[1mrequests.exceptions.ConnectionError[0m:[1m ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))[0m
+[32m2022-06-11 12:30:15.100[0m | [33m[1mWARNING [0m | [36m__main__[0m:[36mmain[0m:[36m63[0m - [33m[1mInvalid http response[0m
+[32m2022-06-11 12:30:15.535[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:27.016[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:27.458[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:33.966[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[82][0m
+[32m2022-06-11 12:30:33.968[0m | [31m[1mERROR   [0m | [36m__main__[0m:[36mmain[0m:[36m57[0m - [31m[1mAn error has been caught in function 'main', process 'MainProcess' (265423), thread 'MainThread' (140463351867200):[0m
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           │          └ <function create_connection at 0x7fc02b63d6c0>
+           └ <module 'urllib3.util.connection' from '/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/util/connectio...
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 95, in create_connection
+    raise err
+          └ ConnectionRefusedError(111, 'Connection refused')
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    sock.connect(sa)
+    │            └ ('127.0.0.1', 82)
+    └ None
+
+[31m[1mConnectionRefusedError[0m:[1m [Errno 111] Connection refused[0m
+
+
+[1mDuring handling of the above exception, another exception occurred:[0m
+
+
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       │    └ <function HTTPConnectionPool._make_request at 0x7fc02b6d77f0>
+                       └ <urllib3.connectionpool.HTTPConnectionPool object at 0x7fc02b015cf0>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+    │    │       │       │      └ {'body': None, 'headers': {'User-Agent': 'python-requests/2.28.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Conn...
+    │    │       │       └ '/'
+    │    │       └ 'GET'
+    │    └ <function HTTPConnection.request at 0x7fc02b6b9cf0>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02b017d30>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+          │               │             │       │         │             └ {'User-Agent': 'python-requests/2.28.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+          │               │             │       │         └ None
+          │               │             │       └ '/'
+          │               │             └ 'GET'
+          │               └ <urllib3.connection.HTTPConnection object at 0x7fc02b017d30>
+          └ <class 'urllib3.connection.HTTPConnection'>
+  File "/usr/lib/python3.10/http/client.py", line 1282, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+    │    │             │       │    │     │        └ False
+    │    │             │       │    │     └ {'User-Agent': 'python-requests/2.28.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+    │    │             │       │    └ None
+    │    │             │       └ '/'
+    │    │             └ 'GET'
+    │    └ <function HTTPConnection._send_request at 0x7fc02bb79fc0>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02b017d30>
+  File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+    │    │          │                    └ False
+    │    │          └ None
+    │    └ <function HTTPConnection.endheaders at 0x7fc02bb79ea0>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02b017d30>
+  File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    │    │            │                            └ False
+    │    │            └ None
+    │    └ <function HTTPConnection._send_output at 0x7fc02bb79ab0>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02b017d30>
+  File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+    self.send(msg)
+    │    │    └ b'GET / HTTP/1.1\r\nHost: 127.0.0.1:82\r\nUser-Agent: python-requests/2.28.0\r\nAccept-Encoding: gzip, deflate\r\nAccept: */*...
+    │    └ <function HTTPConnection.send at 0x7fc02bb79900>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02b017d30>
+  File "/usr/lib/python3.10/http/client.py", line 975, in send
+    self.connect()
+    │    └ <function HTTPConnection.connect at 0x7fc02b6b9b40>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02b017d30>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 205, in connect
+    conn = self._new_conn()
+           │    └ <function HTTPConnection._new_conn at 0x7fc02b6b9990>
+           └ <urllib3.connection.HTTPConnection object at 0x7fc02b017d30>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+          └ <class 'urllib3.exceptions.NewConnectionError'>
+
+[31m[1murllib3.exceptions.NewConnectionError[0m:[1m <urllib3.connection.HTTPConnection object at 0x7fc02b017d30>: Failed to establish a new connection: [Errno 111] Connection refused[0m
+
+
+[1mDuring handling of the above exception, another exception occurred:[0m
+
+
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+           │    └ <function HTTPConnectionPool.urlopen at 0x7fc02b6d7a30>
+           └ <urllib3.connectionpool.HTTPConnectionPool object at 0x7fc02b015cf0>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+              │       └ <function Retry.increment at 0x7fc02b63f370>
+              └ Retry(total=0, connect=None, read=False, redirect=None, status=None)
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+          │             │      │    │        │             └ 'unknown'
+          │             │      │    │        └ <class 'urllib3.exceptions.ResponseError'>
+          │             │      │    └ NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02b017d30>: Failed to establish a new connection: [Errn...
+          │             │      └ '/'
+          │             └ <urllib3.connectionpool.HTTPConnectionPool object at 0x7fc02b015cf0>
+          └ <class 'urllib3.exceptions.MaxRetryError'>
+
+[31m[1murllib3.exceptions.MaxRetryError[0m:[1m HTTPConnectionPool(host='127.0.0.1', port=82): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02b017d30>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+
+
+[1mDuring handling of the above exception, another exception occurred:[0m
+
+
+[33m[1mTraceback (most recent call last):[0m
+
+  File "[32m/home/kali/Desktop/spzc/mtd/[0m[32m[1madversary.py[0m", line [33m86[0m, in [35m<module>[0m
+    [1mmain[0m[1m([0m[1m)[0m
+    [36m└ [0m[36m[1m<function main at 0x7fc02b00dc60>[0m
+
+> File "[32m/home/kali/Desktop/spzc/mtd/[0m[32m[1madversary.py[0m", line [33m57[0m, in [35mmain[0m
+    [1mresponse[0m [35m[1m=[0m [1mperform_trial_request[0m[1m([0m[1mopen_ports[0m[1m[[0m[34m[1m0[0m[1m][0m[1m)[0m
+    [36m           │                     └ [0m[36m[1m[82][0m
+    [36m           └ [0m[36m[1m<function perform_trial_request at 0x7fc02b00d630>[0m
+
+  File "[32m/home/kali/Desktop/spzc/mtd/[0m[32m[1madversary.py[0m", line [33m31[0m, in [35mperform_trial_request[0m
+    [1mresponse[0m [35m[1m=[0m [1mrequests[0m[35m[1m.[0m[1mget[0m[1m([0m[1murl[0m[1m)[0m
+    [36m           │        │   └ [0m[36m[1m'http://127.0.0.1:82'[0m
+    [36m           │        └ [0m[36m[1m<function get at 0x7fc02b267130>[0m
+    [36m           └ [0m[36m[1m<module 'requests' from '/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/__init__.py'>[0m
+
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           │              │           │         └ {}
+           │              │           └ None
+           │              └ 'http://127.0.0.1:82'
+           └ <function request at 0x7fc02b46d360>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           │       │              │           │      └ {'params': None}
+           │       │              │           └ 'http://127.0.0.1:82'
+           │       │              └ 'get'
+           │       └ <function Session.request at 0x7fc02b2668c0>
+           └ <requests.sessions.Session object at 0x7fc02b0154b0>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           │    │    │       └ {'timeout': None, 'allow_redirects': True, 'proxies': OrderedDict(), 'stream': False, 'verify': True, 'cert': None}
+           │    │    └ <PreparedRequest [GET]>
+           │    └ <function Session.send at 0x7fc02b266d40>
+           └ <requests.sessions.Session object at 0x7fc02b0154b0>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        │       │    │          └ {'timeout': None, 'proxies': OrderedDict(), 'stream': False, 'verify': True, 'cert': None}
+        │       │    └ <PreparedRequest [GET]>
+        │       └ <function HTTPAdapter.send at 0x7fc02b266200>
+        └ <requests.adapters.HTTPAdapter object at 0x7fc02b017f10>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+          │                          └ <PreparedRequest [GET]>
+          └ <class 'requests.exceptions.ConnectionError'>
+
+[31m[1mrequests.exceptions.ConnectionError[0m:[1m HTTPConnectionPool(host='127.0.0.1', port=82): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02b017d30>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[32m2022-06-11 12:30:33.989[0m | [33m[1mWARNING [0m | [36m__main__[0m:[36mmain[0m:[36m63[0m - [33m[1mInvalid http response[0m
+[32m2022-06-11 12:30:34.612[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:35.121[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:35.470[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:35.786[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:36.074[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:36.355[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:36.636[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:36.920[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:37.239[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:37.535[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:37.831[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:38.129[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:38.445[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:38.741[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:39.026[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:39.311[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:39.602[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:39.886[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:40.168[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:40.457[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:40.740[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:41.030[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:41.327[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:41.619[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:41.899[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:42.190[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:42.479[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:42.757[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:43.035[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:43.344[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:43.722[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:44.118[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:44.529[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:44.868[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:45.157[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:45.522[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:30:56.964[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[96][0m
+[32m2022-06-11 12:30:56.967[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 96...[0m
+[32m2022-06-11 12:30:58.972[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:31:10.272[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[96][0m
+[32m2022-06-11 12:31:10.275[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 96...[0m
+[32m2022-06-11 12:31:12.279[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:31:23.638[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:31:24.082[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:31:35.597[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[94][0m
+[32m2022-06-11 12:31:35.599[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 94...[0m
+[32m2022-06-11 12:31:37.603[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:31:49.252[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[94][0m
+[32m2022-06-11 12:31:49.260[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 94...[0m
+[32m2022-06-11 12:31:51.268[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:32:02.797[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:32:03.385[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:32:14.962[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[99][0m
+[32m2022-06-11 12:32:14.975[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 99...[0m
+[32m2022-06-11 12:32:16.977[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:32:28.446[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[99][0m
+[32m2022-06-11 12:32:28.448[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 99...[0m
+[32m2022-06-11 12:32:30.450[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:32:41.976[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:32:42.506[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:32:43.128[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:32:54.687[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[87][0m
+[32m2022-06-11 12:32:54.690[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 87...[0m
+[32m2022-06-11 12:32:56.693[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:33:08.148[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[87][0m
+[32m2022-06-11 12:33:08.153[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 87...[0m
+[32m2022-06-11 12:33:10.160[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:33:21.583[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:33:22.146[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:33:33.820[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[86][0m
+[32m2022-06-11 12:33:33.825[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 86...[0m
+[32m2022-06-11 12:33:35.827[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:33:47.268[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[86][0m
+[32m2022-06-11 12:33:47.270[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 86...[0m
+[32m2022-06-11 12:33:49.273[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:34:00.854[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:34:01.545[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:34:08.160[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[80][0m
+[32m2022-06-11 12:34:08.163[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 80...[0m
+[32m2022-06-11 12:34:10.166[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:34:16.878[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[80][0m
+[32m2022-06-11 12:34:16.884[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 80...[0m
+[32m2022-06-11 12:34:18.886[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:34:25.358[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[80][0m
+[32m2022-06-11 12:34:25.364[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 80...[0m
+[32m2022-06-11 12:34:27.366[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:34:33.982[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[80][0m
+[32m2022-06-11 12:34:33.983[0m | [31m[1mERROR   [0m | [36m__main__[0m:[36mmain[0m:[36m57[0m - [31m[1mAn error has been caught in function 'main', process 'MainProcess' (265423), thread 'MainThread' (140463351867200):[0m
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           │          └ <function create_connection at 0x7fc02b63d6c0>
+           └ <module 'urllib3.util.connection' from '/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/util/connectio...
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 95, in create_connection
+    raise err
+          └ ConnectionRefusedError(111, 'Connection refused')
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    sock.connect(sa)
+    │            └ ('127.0.0.1', 80)
+    └ None
+
+[31m[1mConnectionRefusedError[0m:[1m [Errno 111] Connection refused[0m
+
+
+[1mDuring handling of the above exception, another exception occurred:[0m
+
+
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       │    └ <function HTTPConnectionPool._make_request at 0x7fc02b6d77f0>
+                       └ <urllib3.connectionpool.HTTPConnectionPool object at 0x7fc02b016740>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+    │    │       │       │      └ {'body': None, 'headers': {'User-Agent': 'python-requests/2.28.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Conn...
+    │    │       │       └ '/'
+    │    │       └ 'GET'
+    │    └ <function HTTPConnection.request at 0x7fc02b6b9cf0>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02af3c670>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+          │               │             │       │         │             └ {'User-Agent': 'python-requests/2.28.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+          │               │             │       │         └ None
+          │               │             │       └ '/'
+          │               │             └ 'GET'
+          │               └ <urllib3.connection.HTTPConnection object at 0x7fc02af3c670>
+          └ <class 'urllib3.connection.HTTPConnection'>
+  File "/usr/lib/python3.10/http/client.py", line 1282, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+    │    │             │       │    │     │        └ False
+    │    │             │       │    │     └ {'User-Agent': 'python-requests/2.28.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+    │    │             │       │    └ None
+    │    │             │       └ '/'
+    │    │             └ 'GET'
+    │    └ <function HTTPConnection._send_request at 0x7fc02bb79fc0>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02af3c670>
+  File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+    │    │          │                    └ False
+    │    │          └ None
+    │    └ <function HTTPConnection.endheaders at 0x7fc02bb79ea0>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02af3c670>
+  File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    │    │            │                            └ False
+    │    │            └ None
+    │    └ <function HTTPConnection._send_output at 0x7fc02bb79ab0>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02af3c670>
+  File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+    self.send(msg)
+    │    │    └ b'GET / HTTP/1.1\r\nHost: 127.0.0.1\r\nUser-Agent: python-requests/2.28.0\r\nAccept-Encoding: gzip, deflate\r\nAccept: */*\r\...
+    │    └ <function HTTPConnection.send at 0x7fc02bb79900>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02af3c670>
+  File "/usr/lib/python3.10/http/client.py", line 975, in send
+    self.connect()
+    │    └ <function HTTPConnection.connect at 0x7fc02b6b9b40>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02af3c670>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 205, in connect
+    conn = self._new_conn()
+           │    └ <function HTTPConnection._new_conn at 0x7fc02b6b9990>
+           └ <urllib3.connection.HTTPConnection object at 0x7fc02af3c670>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+          └ <class 'urllib3.exceptions.NewConnectionError'>
+
+[31m[1murllib3.exceptions.NewConnectionError[0m:[1m <urllib3.connection.HTTPConnection object at 0x7fc02af3c670>: Failed to establish a new connection: [Errno 111] Connection refused[0m
+
+
+[1mDuring handling of the above exception, another exception occurred:[0m
+
+
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+           │    └ <function HTTPConnectionPool.urlopen at 0x7fc02b6d7a30>
+           └ <urllib3.connectionpool.HTTPConnectionPool object at 0x7fc02b016740>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+              │       └ <function Retry.increment at 0x7fc02b63f370>
+              └ Retry(total=0, connect=None, read=False, redirect=None, status=None)
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+          │             │      │    │        │             └ 'unknown'
+          │             │      │    │        └ <class 'urllib3.exceptions.ResponseError'>
+          │             │      │    └ NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02af3c670>: Failed to establish a new connection: [Errn...
+          │             │      └ '/'
+          │             └ <urllib3.connectionpool.HTTPConnectionPool object at 0x7fc02b016740>
+          └ <class 'urllib3.exceptions.MaxRetryError'>
+
+[31m[1murllib3.exceptions.MaxRetryError[0m:[1m HTTPConnectionPool(host='127.0.0.1', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02af3c670>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+
+
+[1mDuring handling of the above exception, another exception occurred:[0m
+
+
+[33m[1mTraceback (most recent call last):[0m
+
+  File "[32m/home/kali/Desktop/spzc/mtd/[0m[32m[1madversary.py[0m", line [33m86[0m, in [35m<module>[0m
+    [1mmain[0m[1m([0m[1m)[0m
+    [36m└ [0m[36m[1m<function main at 0x7fc02b00dc60>[0m
+
+> File "[32m/home/kali/Desktop/spzc/mtd/[0m[32m[1madversary.py[0m", line [33m57[0m, in [35mmain[0m
+    [1mresponse[0m [35m[1m=[0m [1mperform_trial_request[0m[1m([0m[1mopen_ports[0m[1m[[0m[34m[1m0[0m[1m][0m[1m)[0m
+    [36m           │                     └ [0m[36m[1m[80][0m
+    [36m           └ [0m[36m[1m<function perform_trial_request at 0x7fc02b00d630>[0m
+
+  File "[32m/home/kali/Desktop/spzc/mtd/[0m[32m[1madversary.py[0m", line [33m31[0m, in [35mperform_trial_request[0m
+    [1mresponse[0m [35m[1m=[0m [1mrequests[0m[35m[1m.[0m[1mget[0m[1m([0m[1murl[0m[1m)[0m
+    [36m           │        │   └ [0m[36m[1m'http://127.0.0.1:80'[0m
+    [36m           │        └ [0m[36m[1m<function get at 0x7fc02b267130>[0m
+    [36m           └ [0m[36m[1m<module 'requests' from '/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/__init__.py'>[0m
+
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           │              │           │         └ {}
+           │              │           └ None
+           │              └ 'http://127.0.0.1:80'
+           └ <function request at 0x7fc02b46d360>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           │       │              │           │      └ {'params': None}
+           │       │              │           └ 'http://127.0.0.1:80'
+           │       │              └ 'get'
+           │       └ <function Session.request at 0x7fc02b2668c0>
+           └ <requests.sessions.Session object at 0x7fc02b017b20>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           │    │    │       └ {'timeout': None, 'allow_redirects': True, 'proxies': OrderedDict(), 'stream': False, 'verify': True, 'cert': None}
+           │    │    └ <PreparedRequest [GET]>
+           │    └ <function Session.send at 0x7fc02b266d40>
+           └ <requests.sessions.Session object at 0x7fc02b017b20>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        │       │    │          └ {'timeout': None, 'proxies': OrderedDict(), 'stream': False, 'verify': True, 'cert': None}
+        │       │    └ <PreparedRequest [GET]>
+        │       └ <function HTTPAdapter.send at 0x7fc02b266200>
+        └ <requests.adapters.HTTPAdapter object at 0x7fc02b017a60>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+          │                          └ <PreparedRequest [GET]>
+          └ <class 'requests.exceptions.ConnectionError'>
+
+[31m[1mrequests.exceptions.ConnectionError[0m:[1m HTTPConnectionPool(host='127.0.0.1', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02af3c670>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[32m2022-06-11 12:34:33.994[0m | [33m[1mWARNING [0m | [36m__main__[0m:[36mmain[0m:[36m63[0m - [33m[1mInvalid http response[0m
+[32m2022-06-11 12:34:34.988[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:34:41.784[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[80][0m
+[32m2022-06-11 12:34:41.797[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 80...[0m
+[32m2022-06-11 12:34:43.800[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:34:50.453[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[80][0m
+[32m2022-06-11 12:34:50.456[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 80...[0m
+[32m2022-06-11 12:34:52.457[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:34:59.150[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[80][0m
+[32m2022-06-11 12:34:59.158[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 80...[0m
+[32m2022-06-11 12:35:01.161[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:35:07.652[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[80][0m
+[32m2022-06-11 12:35:07.655[0m | [31m[1mERROR   [0m | [36m__main__[0m:[36mmain[0m:[36m57[0m - [31m[1mAn error has been caught in function 'main', process 'MainProcess' (265423), thread 'MainThread' (140463351867200):[0m
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           │          └ <function create_connection at 0x7fc02b63d6c0>
+           └ <module 'urllib3.util.connection' from '/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/util/connectio...
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 95, in create_connection
+    raise err
+          └ ConnectionRefusedError(111, 'Connection refused')
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    sock.connect(sa)
+    │            └ ('127.0.0.1', 80)
+    └ None
+
+[31m[1mConnectionRefusedError[0m:[1m [Errno 111] Connection refused[0m
+
+
+[1mDuring handling of the above exception, another exception occurred:[0m
+
+
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       │    └ <function HTTPConnectionPool._make_request at 0x7fc02b6d77f0>
+                       └ <urllib3.connectionpool.HTTPConnectionPool object at 0x7fc02af3c910>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+    │    │       │       │      └ {'body': None, 'headers': {'User-Agent': 'python-requests/2.28.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Conn...
+    │    │       │       └ '/'
+    │    │       └ 'GET'
+    │    └ <function HTTPConnection.request at 0x7fc02b6b9cf0>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02af3d1e0>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+          │               │             │       │         │             └ {'User-Agent': 'python-requests/2.28.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+          │               │             │       │         └ None
+          │               │             │       └ '/'
+          │               │             └ 'GET'
+          │               └ <urllib3.connection.HTTPConnection object at 0x7fc02af3d1e0>
+          └ <class 'urllib3.connection.HTTPConnection'>
+  File "/usr/lib/python3.10/http/client.py", line 1282, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+    │    │             │       │    │     │        └ False
+    │    │             │       │    │     └ {'User-Agent': 'python-requests/2.28.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+    │    │             │       │    └ None
+    │    │             │       └ '/'
+    │    │             └ 'GET'
+    │    └ <function HTTPConnection._send_request at 0x7fc02bb79fc0>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02af3d1e0>
+  File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+    │    │          │                    └ False
+    │    │          └ None
+    │    └ <function HTTPConnection.endheaders at 0x7fc02bb79ea0>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02af3d1e0>
+  File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    │    │            │                            └ False
+    │    │            └ None
+    │    └ <function HTTPConnection._send_output at 0x7fc02bb79ab0>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02af3d1e0>
+  File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+    self.send(msg)
+    │    │    └ b'GET / HTTP/1.1\r\nHost: 127.0.0.1\r\nUser-Agent: python-requests/2.28.0\r\nAccept-Encoding: gzip, deflate\r\nAccept: */*\r\...
+    │    └ <function HTTPConnection.send at 0x7fc02bb79900>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02af3d1e0>
+  File "/usr/lib/python3.10/http/client.py", line 975, in send
+    self.connect()
+    │    └ <function HTTPConnection.connect at 0x7fc02b6b9b40>
+    └ <urllib3.connection.HTTPConnection object at 0x7fc02af3d1e0>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 205, in connect
+    conn = self._new_conn()
+           │    └ <function HTTPConnection._new_conn at 0x7fc02b6b9990>
+           └ <urllib3.connection.HTTPConnection object at 0x7fc02af3d1e0>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+          └ <class 'urllib3.exceptions.NewConnectionError'>
+
+[31m[1murllib3.exceptions.NewConnectionError[0m:[1m <urllib3.connection.HTTPConnection object at 0x7fc02af3d1e0>: Failed to establish a new connection: [Errno 111] Connection refused[0m
+
+
+[1mDuring handling of the above exception, another exception occurred:[0m
+
+
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+           │    └ <function HTTPConnectionPool.urlopen at 0x7fc02b6d7a30>
+           └ <urllib3.connectionpool.HTTPConnectionPool object at 0x7fc02af3c910>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+              │       └ <function Retry.increment at 0x7fc02b63f370>
+              └ Retry(total=0, connect=None, read=False, redirect=None, status=None)
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+          │             │      │    │        │             └ 'unknown'
+          │             │      │    │        └ <class 'urllib3.exceptions.ResponseError'>
+          │             │      │    └ NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02af3d1e0>: Failed to establish a new connection: [Errn...
+          │             │      └ '/'
+          │             └ <urllib3.connectionpool.HTTPConnectionPool object at 0x7fc02af3c910>
+          └ <class 'urllib3.exceptions.MaxRetryError'>
+
+[31m[1murllib3.exceptions.MaxRetryError[0m:[1m HTTPConnectionPool(host='127.0.0.1', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02af3d1e0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+
+
+[1mDuring handling of the above exception, another exception occurred:[0m
+
+
+[33m[1mTraceback (most recent call last):[0m
+
+  File "[32m/home/kali/Desktop/spzc/mtd/[0m[32m[1madversary.py[0m", line [33m86[0m, in [35m<module>[0m
+    [1mmain[0m[1m([0m[1m)[0m
+    [36m└ [0m[36m[1m<function main at 0x7fc02b00dc60>[0m
+
+> File "[32m/home/kali/Desktop/spzc/mtd/[0m[32m[1madversary.py[0m", line [33m57[0m, in [35mmain[0m
+    [1mresponse[0m [35m[1m=[0m [1mperform_trial_request[0m[1m([0m[1mopen_ports[0m[1m[[0m[34m[1m0[0m[1m][0m[1m)[0m
+    [36m           │                     └ [0m[36m[1m[80][0m
+    [36m           └ [0m[36m[1m<function perform_trial_request at 0x7fc02b00d630>[0m
+
+  File "[32m/home/kali/Desktop/spzc/mtd/[0m[32m[1madversary.py[0m", line [33m31[0m, in [35mperform_trial_request[0m
+    [1mresponse[0m [35m[1m=[0m [1mrequests[0m[35m[1m.[0m[1mget[0m[1m([0m[1murl[0m[1m)[0m
+    [36m           │        │   └ [0m[36m[1m'http://127.0.0.1:80'[0m
+    [36m           │        └ [0m[36m[1m<function get at 0x7fc02b267130>[0m
+    [36m           └ [0m[36m[1m<module 'requests' from '/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/__init__.py'>[0m
+
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           │              │           │         └ {}
+           │              │           └ None
+           │              └ 'http://127.0.0.1:80'
+           └ <function request at 0x7fc02b46d360>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           │       │              │           │      └ {'params': None}
+           │       │              │           └ 'http://127.0.0.1:80'
+           │       │              └ 'get'
+           │       └ <function Session.request at 0x7fc02b2668c0>
+           └ <requests.sessions.Session object at 0x7fc02b015f30>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           │    │    │       └ {'timeout': None, 'allow_redirects': True, 'proxies': OrderedDict(), 'stream': False, 'verify': True, 'cert': None}
+           │    │    └ <PreparedRequest [GET]>
+           │    └ <function Session.send at 0x7fc02b266d40>
+           └ <requests.sessions.Session object at 0x7fc02b015f30>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        │       │    │          └ {'timeout': None, 'proxies': OrderedDict(), 'stream': False, 'verify': True, 'cert': None}
+        │       │    └ <PreparedRequest [GET]>
+        │       └ <function HTTPAdapter.send at 0x7fc02b266200>
+        └ <requests.adapters.HTTPAdapter object at 0x7fc02af3cb80>
+  File "/home/kali/Desktop/spzc/mtd/.venv/lib/python3.10/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+          │                          └ <PreparedRequest [GET]>
+          └ <class 'requests.exceptions.ConnectionError'>
+
+[31m[1mrequests.exceptions.ConnectionError[0m:[1m HTTPConnectionPool(host='127.0.0.1', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc02af3d1e0>: Failed to establish a new connection: [Errno 111] Connection refused'))[0m
+[32m2022-06-11 12:35:07.681[0m | [33m[1mWARNING [0m | [36m__main__[0m:[36mmain[0m:[36m63[0m - [33m[1mInvalid http response[0m
+[32m2022-06-11 12:35:08.440[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:35:20.366[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[92][0m
+[32m2022-06-11 12:35:20.370[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 92...[0m
+[32m2022-06-11 12:35:22.374[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:35:33.970[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[92][0m
+[32m2022-06-11 12:35:33.973[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 92...[0m
+[32m2022-06-11 12:35:35.976[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m
+[32m2022-06-11 12:35:47.463[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:35:48.051[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:35:48.660[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[][0m
+[32m2022-06-11 12:36:00.175[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m51[0m - [1mopen_ports=[97][0m
+[32m2022-06-11 12:36:00.180[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m66[0m - [32m[1mSo far so good. Performing exploit on port 97...[0m
+[32m2022-06-11 12:36:02.182[0m | [32m[1mSUCCESS [0m | [36m__main__[0m:[36mmain[0m:[36m78[0m - [32m[1mAttack successful[0m

@@ -8,8 +8,8 @@ from src.logger import initialize_logger
 from src.container import *
 
 IMAGE_NAME = "webserver"
-SLEEP_INTERVAL = 6  # [s]
-PUBLISHED_PORTS_RANGE = [5000, 6000]
+SLEEP_INTERVAL = 30  # [s]
+PUBLISHED_PORTS_RANGE = [80, 100]
 CONFIG_PATH = "./exposed_container.json"
 LOG_FILENAME = "mtd_logs.log"
 
