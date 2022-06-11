@@ -1,0 +1,98 @@
+{
+    "nmap": {
+        "command_line": "nmap -oX - -p 80-10000 -sV 127.0.0.1",
+        "scaninfo": {
+            "tcp": {
+                "method": "connect",
+                "services": "80-10000"
+            }
+        },
+        "scanstats": {
+            "timestr": "Sat Jun 11 12:07:21 2022",
+            "elapsed": "6.46",
+            "uphosts": "1",
+            "downhosts": "0",
+            "totalhosts": "1"
+        }
+    },
+    "scan": {
+        "127.0.0.1": {
+            "hostnames": [
+                {
+                    "name": "localhost",
+                    "type": "PTR"
+                }
+            ],
+            "addresses": {
+                "ipv4": "127.0.0.1"
+            },
+            "vendor": {},
+            "status": {
+                "state": "up",
+                "reason": "syn-ack"
+            },
+            "tcp": {
+                "80": {
+                    "state": "open",
+                    "reason": "syn-ack",
+                    "name": "http",
+                    "product": "nginx",
+                    "version": "1.21.6",
+                    "extrainfo": "",
+                    "conf": "10",
+                    "cpe": "cpe:/a:igor_sysoev:nginx:1.21.6"
+                },
+                "9008": {
+                    "state": "open",
+                    "reason": "syn-ack",
+                    "name": "zmtp",
+                    "product": "ZeroMQ ZMTP 2.0",
+                    "version": "",
+                    "extrainfo": "",
+                    "conf": "10",
+                    "cpe": ""
+                },
+                "9009": {
+                    "state": "open",
+                    "reason": "syn-ack",
+                    "name": "zmtp",
+                    "product": "ZeroMQ ZMTP 2.0",
+                    "version": "",
+                    "extrainfo": "",
+                    "conf": "10",
+                    "cpe": ""
+                },
+                "9010": {
+                    "state": "open",
+                    "reason": "syn-ack",
+                    "name": "zmtp",
+                    "product": "ZeroMQ ZMTP 2.0",
+                    "version": "",
+                    "extrainfo": "",
+                    "conf": "10",
+                    "cpe": ""
+                },
+                "9011": {
+                    "state": "open",
+                    "reason": "syn-ack",
+                    "name": "zmtp",
+                    "product": "ZeroMQ ZMTP 2.0",
+                    "version": "",
+                    "extrainfo": "",
+                    "conf": "10",
+                    "cpe": ""
+                },
+                "9012": {
+                    "state": "open",
+                    "reason": "syn-ack",
+                    "name": "zmtp",
+                    "product": "ZeroMQ ZMTP 2.0",
+                    "version": "",
+                    "extrainfo": "",
+                    "conf": "10",
+                    "cpe": ""
+                }
+            }
+        }
+    }
+}
