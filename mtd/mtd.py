@@ -1,39 +1,18 @@
-import docker
-
-from sys import exit, stdout, stderr
+from time import sleep
 from loguru import logger
-from datetime import date
 
+
+from src.logger import initialize_logger
+from src.container import *
+
+IMAGE_NAME = "webserver"
+SLEEP_INTERVAL = 10 #[s]
 
 def main():
-    client = docker.from_env()
-    container_id = client.containers.run("webserver", detach=True, auto_remove=True, ports={"80/tcp": 80})
+    container_id = create(image_name=IMAGE_NAME, exposed_port=80)
     logger.success(f"Docker started {container_id}")
-
-def initialize_logger():
-    try:
-        log_filename = "logs.log"
-        if log_filename == "auto":
-            today = date.today()
-            log_filename = f"logs/{today.year}-{today.month}-{today.day}.log"
-        logger.remove()
-        logger.add(stdout, level="INFO")
-        logger.add(
-            log_filename,
-            level="INFO",
-            colorize=True,
-            retention="5d",
-        )
-    except KeyError as key_err:
-        logger.remove()
-        logger.add(stderr)
-        logger.critical(f"Key missing in settings file: {str(key_err)}")
-        exit(1)
-    except Exception as e:
-        print(str(e))
-        exit(1)
-    finally:
-        logger.debug("Logger has been initialized")
+    sleep(SLEEP_INTERVAL)
+    delete(container_id)
 
 
 if __name__ == "__main__":
