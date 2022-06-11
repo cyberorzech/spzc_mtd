@@ -4,7 +4,7 @@ from loguru import logger
 @logger.catch
 def create(image_name: str, exposed_port: int):
     container_id = docker.run(
-        image_name, detach=True, publish=[(80, exposed_port)], remove=True
+        image_name, detach=True, publish=[(exposed_port, 80)], remove=True
     )
     return container_id
 
