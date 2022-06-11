@@ -13,7 +13,7 @@ def main():
     logger.success(f"Docker started {container_id}")
     sleep(SLEEP_INTERVAL)
     delete(container_id)
-
+    logger.success(f"Deleted container {container_id}")
 
 if __name__ == "__main__":
     initialize_logger()

@@ -1,18 +1,16 @@
-import docker
+from python_on_whales import docker
 from loguru import logger
 
 @logger.catch
 def create(image_name: str, exposed_port: int):
-    client = docker.from_env()
-    container_id = client.containers.run(
-        image_name, detach=True, auto_remove=True, ports={"80/tcp": exposed_port}
+    container_id = docker.run(
+        image_name, detach=True, publish=[(80, exposed_port)], remove=True
     )
     return container_id
 
 @logger.catch
 def delete(container_id):
-    client = docker.from_env()
-    x = client.containers.kill()
-
+    docker.stop(container_id)
+    
 if __name__ == "__main__":
     raise NotImplementedError("Use as package")
