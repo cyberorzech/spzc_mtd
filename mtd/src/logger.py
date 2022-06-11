@@ -2,6 +2,7 @@ from sys import exit, stdout, stderr
 from loguru import logger
 from datetime import date
 
+
 def initialize_logger():
     try:
         log_filename = "logs.log"
