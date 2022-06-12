@@ -17,7 +17,10 @@ def get_open_ports(nmap_scan_result: dict) -> list:
     OPEN_PORT = "open"
     HTTP_SERVICE = "http"
     result = list()
-    scanned_ports = [*nmap_scan_result["scan"]["127.0.0.1"]["tcp"]]
+    try:
+        scanned_ports = [*nmap_scan_result["scan"]["127.0.0.1"]["tcp"]]
+    except KeyError:
+        return result
     for port in scanned_ports:
         state = nmap_scan_result["scan"]["127.0.0.1"]["tcp"][port]["state"]
         service_name = nmap_scan_result["scan"]["127.0.0.1"]["tcp"][port]["name"]
@@ -36,8 +39,8 @@ def perform_exploit():
     for _ in trange(EXPLOIT_TIME): sleep(1)
 
 LOG_FILENAME = "adversary_logs.log"
-PORTS_RANGE = [80, 100]
-EXPLOIT_TIME = 2 #[s]
+PORTS_RANGE = [10000, 15000]
+EXPLOIT_TIME = 15 #[s]
 
 
 def main():
@@ -45,6 +48,7 @@ def main():
     unsuccessful_attacks_count = 0
     loops_count = 0
     while(True):
+        loops_count += 1
         scan_result = perform_scan()
         open_ports = get_open_ports(scan_result)
         logger.info(f"{open_ports=}")
@@ -60,6 +64,7 @@ def main():
 
             logger.success(f"So far so good. Performing exploit on port {open_ports[0]}...")
             perform_exploit()
+            response = perform_trial_request(open_ports[0])
             if not "Response [200]" in str(response):
                 raise RuntimeError(f"Attack unsuccessful")
 
@@ -67,10 +72,14 @@ def main():
             unsuccessful_attacks_count += 1
             logger.warning(re)
             continue
-        
+        finally:
+            if loops_count % 10 == 0:
+                logger.info(f"{successful_attacks_count=}, {unsuccessful_attacks_count=}")
+
+
         successful_attacks_count += 1
+
         logger.success(f"Attack successful")
-        loops_count += 1
         if loops_count % 10 == 0:
             logger.info(f"{successful_attacks_count=}, {unsuccessful_attacks_count=}")
 

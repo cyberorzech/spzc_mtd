@@ -5,7 +5,7 @@ from json import load
 
 from src.logger import initialize_logger
 
-SLEEP_INTERVAL = 0
+SLEEP_INTERVAL = 2
 CONFIG_PATH = "./exposed_container.json"
 LOG_FILENAME = "client_logs.log"
 
@@ -62,8 +62,8 @@ def measure_downtime():
 
 
 def main():
-    #measure_requests()
-    measure_downtime()
+    measure_requests()
+    # measure_downtime()
 
 if __name__ == "__main__":
     initialize_logger(LOG_FILENAME)
